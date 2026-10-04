@@ -146,7 +146,7 @@ Every line is tagged with how it's lettered in Canva. The tag also tells the ima
 - **Pause before each page turn** on pp. 6, 18, and 22. Each one sets up a reveal on the next page or the same page: the first meter, his own meter, and catching the NO.
 - **Read the NO shouts loud** and the SB-small lines almost in a whisper. That contrast in volume is the emotional story.
 - **p. 23** is the climax. Read "This time, Milo caught it." slowly.
-- Total length is about 390 words, roughly a 6–8 minute read-aloud.
+- Total length is about 340 words, roughly a 5–7 minute read-aloud with pauses.
 
 ## Pass notes: what changed from the beat sheet (please confirm)
 1. **p. 6:** added Diego's cut-off "But I just—" in a shrinking bubble, so being shouted over is *shown*, not narrated.
