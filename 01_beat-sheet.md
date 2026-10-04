@@ -1,6 +1,6 @@
 # Beat Sheet: *The Happy Meter*
 
-**Status:** DRAFT v0.1, awaiting review
+**Status:** v0.2, APPROVED (Gate 2 closed 2026-10-04)
 **Gate:** 2 of 7. Built from `00_story-bible.md` v0.3. The bible wins any conflict.
 
 ## How to read this file
@@ -29,15 +29,15 @@
 - **Setting:** living room. Milo mid-leap from couch cushion to cushion (a "floor is lava" game he invented). Boris watching from the rug.
 - **Meters:** none.
 - **Text side:** L
-- **Text:** *This is Milo. Milo is loud. Milo is fast. Milo makes up the BEST games.*
-- **Art note:** pure joy. His biggest grin in the book. It sets the baseline of who he really is.
+- **Text:** no narration. Speech bubble only: *"Careful... careful..."*
+- **Art note:** pure joy, mid-balance, tongue out in concentration. The game is implied, never explained. His name is **not** given on this page; Mom reveals it on p. 2.
 
 ### Page 2: Pancakes?
 - **Setting:** kitchen. Mom at the stove holding a spatula, smiling. Milo at the table.
 - **Meters:** none.
 - **Text side:** R
 - **Text:** Mom: *"Pancakes, Milo?"* Milo: **"NO!"**
-- **Art note:** the NO is a big jagged bubble bursting out of Milo; he looks surprised by it himself. Boris's fur puffs up.
+- **Art note:** the first time the reader hears his name. The NO is a big jagged bubble bursting out of Milo; he looks surprised by it himself. Boris's fur puffs up.
 
 ### Page 3: ...yes
 - **Setting:** same kitchen. Milo, quiet and a little sheepish, happily eating a tall stack of pancakes.
@@ -99,9 +99,9 @@
 
 ### Page 11: Boris is hungry
 - **Setting:** kitchen floor. Boris meowing at an empty bowl. Milo pouring cat food.
-- **Meters:** Boris `1→2` (sparkle). Optional small inset or ghosted earlier state showing it drained to 1 while he meowed.
+- **Meters:** Boris `1→2` (sparkle), **plus a ghosted earlier state**: a faint, semi-transparent Boris meowing beside the bowl with his meter drained to 1, overlapping the present-moment Boris eating with a full meter. The drain-then-refill story is told entirely by the image.
 - **Text side:** L
-- **Text:** *Even Boris had one! When nobody fed him, it slowly went down. When Milo filled his bowl, it filled right back up.*
+- **Text:** *Even Boris has one!*
 
 ### Page 12: Too much petting
 - **Setting:** living room rug. Boris mid-SWAT, ears flat, a third square bulging out past his bar. Milo holding his hand, surprised. Boris bolting off the page.
@@ -168,7 +168,7 @@
 - **Setting:** living room. Milo at the piano, playing with gusto. Diego and Nia on the rug listening. Owen on the couch with his book and his cat. Boris on top of the piano.
 - **Meters:** Diego 4. Nia 4. Owen 4. Owen's cat 2/2. Boris 2.
 - **Text side:** R
-- **Text:** *Diego and Nia came over. Milo played his song on the piano. HIS song. HIS way.*
+- **Text:** *Diego and Nia came over. Milo played his song on the piano his way.*
 - **Art note:** Diego and Nia are back at baseline 4. Time has refilled them, and that shows quietly that repair happened offstage.
 
 ### Page 21: Plink plonk
@@ -236,8 +236,13 @@
 | "Squares come back slower than they go." | 17 |
 | "Plot twist!" | 8 (Owen), 23–24 (Milo), 28 (Milo, wry) |
 
-## Open questions for review
-1. **Page 1 game:** "floor is lava" on the couch cushions, or a game Milo invents that's more distinctive?
-2. **Page 11:** show Boris's meter draining to 1 as a small inset or ghosted earlier state, or just show the refill and let the text carry the drain?
-3. **"Squares come back slower than they go"** appears only once (p. 17). Add it a second time, e.g. on p. 20 as Diego's and Nia's meters are shown refilled?
-4. **Diego after Act 2:** he reappears on p. 20 with no on-page repair. Is that enough, or do you want a small make-up moment with Diego in Act 3?
+## Decisions (v0.2)
+- **p. 1:** "floor is lava" on the couch cushions, told by image plus a "Careful... careful..." bubble. Name revealed by Mom on p. 2.
+- **p. 11:** ghosted earlier state shows the drain; text cut to "Even Boris has one!"
+- **p. 20:** text trimmed.
+- **Refrain 2** stays a single use (p. 17). The reader is trusted to apply it as a law.
+- **Diego:** no on-page make-up moment. His refilled meter on p. 20 is enough.
+
+## Changelog
+- **v0.2 (2026-10-04):** Daimon's review applied; Gate 2 approved.
+- **v0.1 (2026-10-04):** initial draft.
