@@ -4,19 +4,19 @@
 
 ## Locked description (paste-ready prompt fragment)
 ```
-7-year-old boy, large head on a small slim body with thin arms and legs, full voluminous blond hair parted in the center, long wavy locks hanging down on each side of his face toward his ears, drawn in flowing brush-stroke clumps, big expressive eyes with clear whites and black pupils, thick expressive eyebrows, big elastic mouth, plain light blue t-shirt, blue jeans, blue sneakers
+7-year-old boy, small short 7-year-old about three and a half heads tall, large head on a small slim body with short thin arms and short legs, blond curtain haircut with short neatly clipped sides and back and ears showing, longer shaggy wavy hair on top parted down the middle, wavy bangs falling to either side of his forehead, drawn in a few flowing brush-stroke clumps, big expressive eyes with clear whites and black pupils, thick expressive eyebrows, big elastic mouth, plain light blue t-shirt, blue jeans, blue sneakers
 ```
 
 ## Prompt 1: Turnaround
 ```
-character turnaround sheet for a children's picture book, classic newspaper comic strip style, large head on a small slim body with thin arms and legs, big expressive eyes with clear whites and black pupils, thick expressive eyebrows, hand-inked light lively brush lines, 7-year-old boy shown three times standing side by side: front view, three-quarter view, side view, full body, full voluminous blond hair parted in the center, long wavy locks hanging down on each side of his face toward his ears, drawn in flowing brush-stroke clumps, wide happy grin, plain light blue t-shirt, blue jeans, blue sneakers, soft, pale, muted, calm transparent watercolor, plain white paper background --ar 3:2 --sref <SREF> --sw 60 --stylize 100 --no quiff, pompadour, side-swept hair, hair swept up, hatching, cross-hatching, perfectly round ball-shaped head, dot eyes, stick-like hair, vector, realistic proportions, anime, text, letters, words, speech bubbles, captions, signature, border, frame, panel lines, background scenery
+character turnaround sheet for a children's picture book, classic newspaper comic strip style, small short 7-year-old about three and a half heads tall, large head on a small slim body with short thin arms and short legs, big expressive eyes with clear whites and black pupils, thick expressive eyebrows, hand-inked light lively brush lines, 7-year-old boy shown three times standing side by side: front view, three-quarter view, side view, full body, blond curtain haircut with short neatly clipped sides and back and ears showing, longer shaggy wavy hair on top parted down the middle, wavy bangs falling to either side of his forehead, drawn in a few flowing brush-stroke clumps, wide happy grin, plain light blue t-shirt, blue jeans, blue sneakers, soft, pale, muted, calm transparent watercolor, plain white paper background --ar 3:2 --sref <SREF> --sw 60 --stylize 100 --no tall, lanky, teenager, long legs, long hair, hair covering ears, mullet, quiff, pompadour, side-swept hair, hair swept up, hatching, cross-hatching, perfectly round ball-shaped head, dot eyes, stick-like hair, vector, realistic proportions, anime, text, letters, words, speech bubbles, captions, signature, border, frame, panel lines, background scenery
 ```
 
 ## Prompt 2: Expression sheet
 Milo's expressions are the emotional engine of the book. Each one maps to specific pages.
 
 ```
-expression sheet for a children's picture book character, the same 7-year-old boy shown six times, head and shoulders: (1) huge open-mouth joyful grin, (2) furious shouting with scrunched eyes and clenched fists, (3) frozen wide-eyed surprise, (4) narrowed eyes and tongue poking out in concentration, (5) sheepish embarrassed small smile, (6) wry knowing half-smile, large head on a small slim body, big expressive eyes with clear whites, full voluminous blond hair parted in the center with long wavy locks hanging down each side in flowing brush-stroke clumps, light blue t-shirt, hand-inked with a fine sable brush, lively fluid lines that swell and taper, soft, pale, muted, calm transparent watercolor, plain white background --ar 3:2 --sref <SREF> --sw 60 --oref <MILO_OREF> --ow 100 --v 7 --no quiff, pompadour, side-swept hair, hair swept up, hatching, cross-hatching, perfectly round ball-shaped head, dot eyes, stick-like hair, vector, realistic proportions, anime, text, letters, words, numbers, speech bubbles, captions, border, frame, panel lines
+expression sheet for a children's picture book character, the same 7-year-old boy shown six times, head and shoulders: (1) huge open-mouth joyful grin, (2) furious shouting with scrunched eyes and clenched fists, (3) frozen wide-eyed surprise, (4) narrowed eyes and tongue poking out in concentration, (5) sheepish embarrassed small smile, (6) wry knowing half-smile, small short 7-year-old, large head, big expressive eyes with clear whites, blond curtain haircut with short neatly clipped sides and back and ears showing, longer shaggy wavy hair on top parted down the middle, wavy bangs falling to either side of his forehead, drawn in a few flowing brush-stroke clumps, light blue t-shirt, hand-inked with a fine sable brush, lively fluid lines that swell and taper, soft, pale, muted, calm transparent watercolor, plain white background --ar 3:2 --sref <SREF> --sw 60 --oref <MILO_OREF> --ow 100 --v 7 --no tall, lanky, teenager, long legs, long hair, hair covering ears, mullet, quiff, pompadour, side-swept hair, hair swept up, hatching, cross-hatching, perfectly round ball-shaped head, dot eyes, stick-like hair, vector, realistic proportions, anime, text, letters, words, numbers, speech bubbles, captions, border, frame, panel lines
 ```
 
 | # | Expression | Used on |
@@ -32,10 +32,13 @@ expression sheet for a children's picture book character, the same 7-year-old bo
 **Note:** Midjourney may draw the numbers into the image even with `--no numbers`. If it does, drop the "(1)…(6)" markers and list the expressions in plain commas.
 
 ## Note from the style anchor
-The anchor's boy has the right face and proportions, but his hair is a **swept-up quiff**. Milo's must be a **middle-part curtain**: hair parted at the center, long wavy locks hanging down either side of his face toward his ears. The prompts exclude the quiff explicitly. If it still creeps in, add "hair hanging down, center part clearly visible" near the start of the prompt.
+The anchor's boy has the right face and proportions, but his hair is a **swept-up quiff**. Milo's cut is a **short-sided curtain cut**: sides and back clipped short (a #4 clipper guard, about ½ inch), ears showing, with longer **shaggy, wavy hair on top, parted down the middle**, and wavy bangs falling to either side of the forehead. Midjourney doesn't know clipper guard numbers, so the prompts describe the shape instead. If the hair grows long again, move the hair phrase to the **front** of the prompt.
+
+**Height:** Milo is small, about 3.5 heads tall. Turnaround sheets tend to stretch figures, so the prompts say "small short" and exclude "tall, lanky, long legs." 
 
 ## Acceptance checklist
-- ☐ Hair is clearly **blond**, **middle part**, **long wavy locks** framing the face (not a bowl cut, not short).
+- ☐ Hair: **blond**, **short clipped sides and back** with ears showing; **shaggy wavy top parted down the middle**; wavy bangs to either side. Not long, not a quiff, not a bowl cut.
+- ☐ **Small**: about 3.5 heads tall; reads as a little 7-year-old, not a lanky tween.
 - ☐ Outfit is **all blue**: light-blue tee, jeans, sneakers. No logos or stripes.
 - ☐ Reads as about **7**, not a toddler and not a tween.
 - ☐ Face is expressive in the comic way: big mouth shapes, readable eyebrows.

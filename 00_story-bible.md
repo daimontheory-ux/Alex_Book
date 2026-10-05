@@ -45,7 +45,8 @@ Milo is the loudest, happiest, most fun kid on the playground, but a "NO!" jumps
 - **What he wants:** to play, to be the game-maker, to have friends around him.
 - **What he needs:** to see that other people's ideas don't break his games; they can make them better. Yelling empties everyone's meter, including his own.
 - **Visual (locked):**
-  - **Hair:** blond, "messy curtain" style: middle part with long, wavy locks falling to either side.
+  - **Hair:** blond, "messy curtain" style: sides and back clipped short (#4 guard), ears showing; longer shaggy, wavy hair on top, parted down the middle, with wavy bangs falling to either side.
+  - **Build:** small for his age; big head, slim body, short limbs (about 3.5 heads tall).
   - **Face:** very expressive. A big open-mouth grin when happy; furrowed brows and scrunched fists when the NO comes out.
   - **Outfit (every page):** plain light-blue T-shirt, blue jeans, blue sneakers.
 
@@ -205,6 +206,7 @@ Target: **28 interior pages** (+ cover, dedication).
 No open items. Gate 1 is closed.
 
 ## Changelog
+- **v0.5 (2026-10-04):** Milo's hair clarified (short #4 sides/back, shaggy wavy middle-parted top); Milo's build added.
 - **v0.4 (2026-10-04):** style description adds soft, pale, muted watercolor; house style weight `--sw 60` (see `03_characters/README.md`).
 - **v0.3 (2026-10-04):** final page refills a square (no 6th square); Milo sees his own meter only in reflections; Owen's cat meter always 2/2; Bath time confirmed. Gate 1 approved.
 - **v0.2 (2026-10-04):** applied Daimon's review: renamed Friend 1 → Diego and brother → Owen; locked Milo/Owen/Nia visuals; added Owen's unnamed B&W cat; Boris → family cat who plays with Milo; autumn leaves; baseline 4 + new fill triggers; Boris 2-square meter with drain/refill/overfill; meter = head width; 8×8 no-border layout with upper-half text; ending keeps mystery; last page = wry "plot twist" + new square.
