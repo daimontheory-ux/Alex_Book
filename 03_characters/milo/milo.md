@@ -68,13 +68,14 @@ Delivered as four single head-and-shoulders images rather than one 4-up sheet. F
 | File | Reads as | Pupils | Use for | Status |
 |---|---|---|---|---|
 | `milo_expr2_hopeful.png` [Milo_Hopeful] | Hopeful, eyes up, warm smile | ✅ black | pp. 24–26 calm-happy beats | Keep |
-| `milo_expr2_content_lookup.png` [Milo_Sheepish] | Content / daydreaming, eyes up | ✅ black | Not sheepish (sheepish = eyes **down**); near-duplicate of hopeful | Keep as alternate |
-| `milo_expr2_scowl_sideeye.png` [Milo_Concentration] | Grumpy defiant side-eye, not concentration (no tongue) | ❌ blue irises | Strong oppositional face: pp. 2, 6, 15 | Keep after iris fix |
-| `milo_expr2_worried.png` [Milo_Worried] | Worried / unsure, eyes up | ❌ blue irises | pp. 7, 14, 27 (the "frozen" beats, softer version) | Keep after iris fix |
+| `milo_expr2_content_lookup.png` [Milo_Sheepish] | Content / daydreaming, eyes up | ✅ black | Daimon accepts as the sheepish face | ✅ Keep |
+| `milo_expr2_scowl_sideeye.png` [Milo_Concentration] | Grumpy defiant side-eye, not concentration (no tongue) | ❌ blue irises | Strong oppositional face: pp. 2, 6, 15. Daimon accepts as the concentration face | ✅ Use `_fixed` (irises recolored black) |
+| `milo_expr2_worried.png` [Milo_Worried] | Worried / unsure, eyes up | ❌ blue irises | pp. 7, 14, 27 (the "frozen" beats, softer version) | ✅ Use `_fixed` (irises recolored black) |
 
 **Improved over set 1:** hair is golden blond (no ginger), freckles present on all four, no fake signatures, line and wash match the anchor.
 **Still drifting:** blue irises on 2 of 4; side hair longer and shaggier than the clipped curtain cut (ears show, but sides aren't short); skin slightly warmer/orange than the turnaround.
-**Still missing:** concentrating with tongue out, true sheepish (eyes down), wry half-smile with raised eyebrow, holding the NO (eyes squeezed shut, cheeks puffed). These go to set 3.
+**Pupil fix (2026-10-05):** blue irises on the scowl and worried faces were recolored to black in code (eye areas only; the rest of each drawing is untouched). The `_fixed` files are the ones to use; the originals stay as the raw Midjourney output.
+**Still missing (set 3):** wry half-smile with raised eyebrow, and holding the NO (eyes squeezed shut, cheeks puffed). Daimon counts concentration and sheepish as covered by set 2.
 
 ## Acceptance checklist
 - ☐ Hair: **blond**, **short clipped sides and back** with ears showing; **shaggy wavy top parted down the middle**; wavy bangs to either side. Not long, not a quiff, not a bowl cut.
@@ -92,6 +93,6 @@ Delivered as four single head-and-shoulders images rather than one 4-up sheet. F
 | Front (cropped from turnaround) | `milo_front_LOCKED.png` | cropped from turnaround | ✅ |
 | Three-quarter (cropped) | `milo_threequarter_LOCKED.png` | cropped from turnaround | ✅ |
 | Expressions set 1 | `milo_expressions_set1_LOCKED.png` | Prompt 2, V7 + Omni Reference (milo_front) + Styles (anchor), `--sw 60`; https://cdn.midjourney.com/089680b2-212f-460b-a946-18329799d49f/0_0.png | ✅ Daimon 2026-10-04 (see review) |
-| Expressions set 2 (4 singles) | `milo_expr2_hopeful.png`, `milo_expr2_content_lookup.png`, `milo_expr2_scowl_sideeye.png`, `milo_expr2_worried.png` | Prompt 2b revised (Test Log R-001 to R-004), V7 + Omni (Milo Standing Neutral, `--ow 100`) + Styles (anchor, `--sw 60`); job URLs pending | 🟡 Added by Daimon 2026-10-05; scowl and worried need black pupils |
-| Expressions set 3 | | concentrate (tongue), sheepish (eyes down), wry, holding the NO | ☐ |
+| Expressions set 2 (4 singles) | `milo_expr2_hopeful.png`, `milo_expr2_content_lookup.png`, `milo_expr2_scowl_sideeye.png`, `milo_expr2_worried.png` | Prompt 2b revised (Test Log R-001 to R-004), V7 + Omni (Milo Standing Neutral, `--ow 100`) + Styles (anchor, `--sw 60`); job URLs pending | ✅ Daimon 2026-10-05; scowl and worried use the `_fixed` black-pupil versions |
+| Expressions set 3 | | wry half-smile, holding the NO | ☐ |
 | `--oref` URL | | | |

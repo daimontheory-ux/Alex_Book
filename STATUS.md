@@ -19,8 +19,8 @@
 | Style anchor | ✅ `STYLE_ANCHOR.png` |
 | Milo turnaround (+ front, 3/4 crops) | ✅ |
 | Milo expressions set 1 (grin, NO shout, uneasy, whiny, wince) | ✅ |
-| Milo expressions set 2 (hopeful, content, scowl, worried) | 🟡 Added 2026-10-05; 2 need black-pupil fix |
-| Milo expressions set 3 (concentrate, sheepish, wry, holding the NO) | ☐ Next |
+| Milo expressions set 2 (hopeful, content, scowl, worried) | ✅ 2026-10-05 (scowl and worried pupils recolored black) |
+| Milo expressions set 3 (wry half-smile, holding the NO) | ☐ Next |
 | Noah, Nia, Owen + B&W cat, Boris, Mom, Dad | ☐ Prompts ready |
 | Size lineup (Canva) | ☐ |
 
@@ -36,7 +36,7 @@
 - None blocking. Bring new ones here.
 
 ## Next actions
-1. Milo expressions set 3: the four faces set 2 missed, one face per prompt. Fix blue irises on set 2 scowl and worried.
+1. Milo expressions set 3: wry half-smile and holding the NO, one face per prompt.
    Run log: Google Sheet "Alex Book – Midjourney Test Log" (Test Log + Reference Recipes tabs).
 2. Noah → Nia → Owen + cat → Boris → Mom → Dad (turnaround, then expressions or poses).
 3. Size lineup in Canva → close Gate 4.
