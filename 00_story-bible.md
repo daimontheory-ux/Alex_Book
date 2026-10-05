@@ -75,6 +75,9 @@ Milo is the loudest, happiest, most fun kid on the playground, but a "NO!" jumps
 - The test subject for Milo's cat-meter experiments in Act 2 (§5.2), and a comic witness in later home scenes.
 
 ### 3.7 Mom and Dad
+- **Build:** lean like the kids, but with more realistic adult proportions (about six heads tall); about **2× Milo's height**.
+- **Dad:** brown hair with gray highlights, light stubble, blue button-down shirt, jeans.
+- **Mom:** brown hair in a ponytail, big eyes, purple sweater set, black capris.
 - Warm and present but **peripheral**. They ask the ordinary questions that trigger Milo's NOs ("Pancakes?" "Bath time!"). They never deliver the lesson. Their meters appear during Milo's experiments.
 
 ## 4. Settings (only two)
@@ -206,6 +209,7 @@ Target: **28 interior pages** (+ cover, dedication).
 No open items. Gate 1 is closed.
 
 ## Changelog
+- **v0.7 (2026-10-04):** all human characters have black pupils (no colored irises); Mom and Dad designs locked.
 - **v0.6 (2026-10-04):** Friend 1 changed from Diego (Hispanic) to **Noah (Korean)**, to keep the book further from real life. Role, personality, and basketball unchanged. (Earlier changelog entries were updated to the new name.)
 - **v0.5 (2026-10-04):** Milo's hair clarified (short #4 sides/back, shaggy wavy middle-parted top); Milo's build added.
 - **v0.4 (2026-10-04):** style description adds soft, pale, muted watercolor; house style weight `--sw 60` (see `03_characters/README.md`).
