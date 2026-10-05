@@ -56,7 +56,7 @@ Drop picks into the folder (or attach them in this chat). I'll review each again
 | Character | Turnaround | Expressions | Locked |
 |---|---|---|---|
 | Style anchor | — | — | ✅ |
-| Milo | ☐ | ☐ | ☐ |
+| Milo | ✅ | ☐ | ☐ |
 | Diego | ☐ | ☐ | ☐ |
 | Nia | ☐ | ☐ | ☐ |
 | Owen + B&W cat | ☐ | ☐ | ☐ |
