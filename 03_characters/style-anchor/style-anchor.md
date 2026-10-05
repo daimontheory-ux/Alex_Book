@@ -3,40 +3,42 @@
 The one image that defines how the whole book *feels*. It becomes `--sref` on every later prompt.
 
 ## What we're looking for
-- **Cartoon proportions:** an **oversized round head** (about 1/3 of total body height, "3 heads tall"), a small compact body, and short limbs. Big hands and feet are fine.
-- **Simple face:** small oval eyes with dot pupils, a tiny simple nose (or none), and a **big, elastic mouth** that carries the emotion. Expression comes from the mouth and eyebrows, not from detail.
-- **Economical linework:** few lines, each one confident. A brush-ink contour with thick-to-thin variation. **No hatching, cross-hatching, or texture lines.** Clothing folds are suggested with one or two strokes.
-- **Transparent watercolor** washes, lightly applied, that don't fully fill the outlines (some white showing through).
+- **Cartoon proportions, not a ball head:** a **large head** (about 1/4 of body height, "four heads tall") with a **soft, slightly wide oval** shape, a rounded cheek and chin, and **real volume of hair** on top. *Not* a perfectly round, bald, ball-shaped head.
+- **Big expressive eyes:** large eyes with clear whites and dark pupils, and **mobile eyebrows**. The eyes and mouth carry the emotion together.
+- **Full, flowing hair:** drawn as **clumps of curved brush strokes** with weight and movement. *Not* thin spiky lines or stick-like strands.
+- **Hand-inked line:** a lively **brush line that swells and tapers**, organic and slightly imperfect. Confident and sparse, but never thin or vector-clean. **No hatching or cross-hatching.**
+- **Calm, delicate watercolor:** soft transparent washes, lightly applied, not fully filling the outlines, with white paper showing through.
 - **Mostly white paper.** Scenery only suggested (a few strokes for grass, one tree).
 - Soft, warm **autumn** palette: reds, oranges, mustard yellow, plus the blue of Milo's outfit.
-- Calm overall. Nothing busy, nothing glossy, no 3D or digital shading.
 
 ## Vocabulary that drives the look
 Midjourney responds to *descriptions of features*. These are the phrases doing the work:
 
 | Goal | Phrases that work | Add to `--no` |
 |---|---|---|
-| Big head | `oversized round head, big head small body, cartoon proportions three heads tall, short stubby limbs` | `realistic proportions, tall, lanky` |
-| Simple face | `simple oval eyes with dot pupils, tiny simple nose, big expressive mouth, minimal facial detail` | `detailed eyes, eyelashes, anime eyes` |
-| Simple lines | `clean economical brush-ink outlines, bold confident contour lines, few lines, minimal detail, newspaper comic strip drawing` | `hatching, cross-hatching, sketchy lines, texture, detailed rendering` |
-| Light color | `flat light watercolor tint, color lightly washed inside the lines, white paper showing through` | `shading, gradients, airbrush, 3d` |
+| Big head, right shape | `large head, cartoon proportions about four heads tall, soft wide oval head with rounded cheeks` | `perfectly round ball-shaped head, bald head, realistic proportions` |
+| Big expressive eyes | `big expressive eyes with white highlights and dark pupils, expressive eyebrows` | `dot eyes, tiny eyes, anime eyes, eyelashes` |
+| Full hair | `full voluminous hair drawn in flowing clumps of curved brush strokes, hair with weight and movement` | `spiky hair, stick-like hair, thin straight hair lines` |
+| Hand-inked line | `hand-inked with a fine sable brush, lively fluid lines that swell and taper, organic hand-drawn imperfection, classic newspaper comic strip linework` | `hatching, cross-hatching, vector, thin uniform lines, digital lineart` |
+| Calm watercolor | `calm delicate transparent watercolor washes, soft and lightly applied, white paper showing through` | `shading, gradients, airbrush, 3d, saturated colors` |
 
-**Avoid** "chibi" and "anime." They also make big heads, but they pull toward a Japanese style with huge sparkly eyes. "Newspaper comic strip" pulls in the right direction.
+**Avoid** "chibi" and "anime" (huge sparkly eyes, Japanese style) and "round head" (pulls toward a bald, ball-headed comic look).
 
 ## Prompt A: kid in motion (recommended first try)
 ```
-newspaper comic strip style children's picture book illustration of a joyful 7-year-old boy leaping through a pile of autumn leaves, oversized round head, big head small body, cartoon proportions three heads tall, short stubby limbs, simple oval eyes with dot pupils, big open-mouth grin, minimal facial detail, clean economical brush-ink outlines with thick-to-thin line variation, few lines, flat light watercolor tint washed inside the lines, white paper showing through, mostly white background, scenery only suggested with a few strokes, soft warm autumn palette of red orange and mustard yellow, lots of negative space --ar 1:1 --stylize 75 --raw --no text, letters, words, speech bubbles, captions, signature, border, frame, panel lines, hatching, cross-hatching, realistic proportions, detailed eyes, anime, chibi, 3d, shading, gradient background
+classic newspaper comic strip style children's picture book illustration of a joyful 7-year-old boy leaping through a pile of autumn leaves, large head with cartoon proportions about four heads tall, soft wide oval head with rounded cheeks, big expressive eyes with dark pupils, expressive eyebrows, big open-mouth grin, full voluminous blond hair drawn in flowing clumps of curved brush strokes with weight and movement, hand-inked with a fine sable brush, lively fluid lines that swell and taper, organic hand-drawn imperfection, calm delicate transparent watercolor washes, white paper showing through, mostly white background, scenery only suggested with a few strokes, soft warm autumn palette of red orange and mustard yellow, lots of negative space --ar 1:1 --stylize 125 --no text, letters, words, speech bubbles, captions, signature, border, frame, panel lines, hatching, cross-hatching, perfectly round ball-shaped head, bald head, dot eyes, spiky hair, stick-like hair, vector, thin uniform lines, anime, chibi, 3d, shading, gradient background
 ```
 
 ## Prompt B: quiet scene (tests restraint)
 ```
-newspaper comic strip style children's picture book illustration of a small boy sitting alone under a big autumn tree with his chin in his hands, leaves drifting down, oversized round head, small body, cartoon proportions three heads tall, simple oval eyes with dot pupils, minimal facial detail, clean economical brush-ink outlines, few lines, flat light watercolor tint, almost entirely white paper, only the tree and a few leaves painted, soft muted warm palette, gentle mood, generous negative space --ar 1:1 --stylize 75 --raw --no text, letters, words, speech bubbles, captions, signature, border, frame, panel lines, hatching, cross-hatching, realistic proportions, detailed eyes, anime, chibi, 3d, shading, gradient background
+classic newspaper comic strip style children's picture book illustration of a small boy sitting alone under a big autumn tree with his chin in his hands, leaves drifting down, large head with cartoon proportions about four heads tall, soft wide oval head, big expressive thoughtful eyes, full voluminous hair drawn in flowing clumps of curved brush strokes, hand-inked with a fine sable brush, lively fluid lines that swell and taper, calm delicate transparent watercolor, almost entirely white paper, only the tree and a few leaves painted, soft muted warm palette, gentle mood, generous negative space --ar 1:1 --stylize 125 --no text, letters, words, speech bubbles, captions, signature, border, frame, panel lines, hatching, cross-hatching, perfectly round ball-shaped head, bald head, dot eyes, spiky hair, stick-like hair, vector, thin uniform lines, anime, chibi, 3d, shading, gradient background
 ```
 
 ## Tuning knobs
-- **Head still too small:** move the proportion phrases to the **front** of the prompt (Midjourney weights early words more). Or add "head as wide as his shoulders".
-- **Lines too busy or sketchy:** lower `--stylize` to 25–50 and keep `--raw` on. Add "drawn with a single brush, minimal strokes."
-- **Too plain or stiff:** raise `--stylize` to 100–150 and add "dynamic action pose, lively."
+- **Head too small:** move the proportion phrases to the **front** of the prompt (Midjourney weights early words more).
+- **Hair still stick-like:** don't use `--raw` or low `--stylize` (both strip out brushwork). Keep `--stylize` at 100–150. Add "thick ink brush strokes in the hair."
+- **Lines too busy:** lower `--stylize` slightly (to about 100) and add "economical, confident linework." Avoid "few lines" and "minimal detail", which made the hair stick-like.
+- **Best fix when one image is close:** use **Vary (Subtle)** on it rather than re-prompting. Or upload it as an **Image Prompt** to keep its proportions while you adjust the words.
 - **Not enough white:** add "vignette fading to white paper, unpainted edges."
 - **Colors too saturated:** add "muted, faded, light watercolor tint."
 - **Strongest fix of all, a sketch of your own:** draw a quick stick-figure-with-a-big-circle-head pose on paper, photograph it, and add it as an **Image Prompt** (the first reference slot). Midjourney will borrow the proportions. Your sketch doesn't need to be good; the shapes are what matter.

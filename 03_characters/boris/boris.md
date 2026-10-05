@@ -9,14 +9,14 @@ sleek Russian Blue cat, short dense silver blue-grey coat, bright green eyes, sl
 
 ## Prompt 1: Turnaround
 ```
-character turnaround sheet for a children's picture book, a sleek Russian Blue cat shown three times: sitting front view, standing side view, sitting three-quarter view, short dense silver blue-grey coat, bright green eyes, slender and elegant, loose ink linework, delicate transparent watercolor, plain white paper background --ar 3:2 --sref <SREF> --stylize 100 --no text, letters, words, collar, speech bubbles, captions, border, frame, panel lines, background scenery
+character turnaround sheet for a children's picture book, a sleek Russian Blue cat shown three times: sitting front view, standing side view, sitting three-quarter view, short dense silver blue-grey coat, bright green eyes, slender and elegant, hand-inked with a fine sable brush, lively fluid lines that swell and taper, calm delicate transparent watercolor, plain white paper background --ar 3:2 --sref <SREF> --stylize 100 --no text, letters, words, collar, speech bubbles, captions, border, frame, panel lines, background scenery
 ```
 
 ## Prompt 2: Action sheet
 Boris's poses carry the cat-meter comedy without words.
 
 ```
-action sheet for a children's picture book, the same sleek Russian Blue cat shown five times: (1) meowing up hopefully at an empty food bowl, (2) happily eating from a full bowl, (3) mid-swat with one paw raised, ears flattened, fur puffed, (4) bolting away in a blur with motion lines, (5) pouncing playfully onto something, silver blue-grey coat, bright green eyes, loose ink linework, delicate transparent watercolor, plain white background --ar 3:2 --sref <SREF> --oref <BORIS_OREF> --ow 100 --v 7 --no text, letters, words, numbers, collar, speech bubbles, captions, border, frame, panel lines
+action sheet for a children's picture book, the same sleek Russian Blue cat shown five times: (1) meowing up hopefully at an empty food bowl, (2) happily eating from a full bowl, (3) mid-swat with one paw raised, ears flattened, fur puffed, (4) bolting away in a blur with motion lines, (5) pouncing playfully onto something, silver blue-grey coat, bright green eyes, hand-inked with a fine sable brush, lively fluid lines that swell and taper, calm delicate transparent watercolor, plain white background --ar 3:2 --sref <SREF> --oref <BORIS_OREF> --ow 100 --v 7 --no text, letters, words, numbers, collar, speech bubbles, captions, border, frame, panel lines
 ```
 
 | # | Pose | Used on |

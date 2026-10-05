@@ -9,12 +9,12 @@
 
 ## Prompt 1: Turnaround (Owen alone)
 ```
-character turnaround sheet for a children's picture book, newspaper comic strip style, oversized round head, cartoon proportions, simple oval eyes with dot pupils, clean economical brush-ink outlines, 10-year-old boy shown three times standing side by side: front view, three-quarter view, side view, full body, blond hair in a traditional side-part cut with long bangs, no glasses, calm friendly face, muted green t-shirt, brown shorts, white socks, no shoes, holding a closed book with a plain cover, loose ink linework, delicate transparent watercolor, plain white paper background --ar 3:2 --sref <SREF> --stylize 100 --no hatching, cross-hatching, realistic proportions, anime, text, letters, words, book title, glasses, speech bubbles, captions, border, frame, panel lines, background scenery
+character turnaround sheet for a children's picture book, classic newspaper comic strip style, large head with cartoon proportions about four heads tall, soft wide oval head, big expressive eyes with dark pupils, hand-inked with a fine sable brush, lively fluid lines that swell and taper, 10-year-old boy shown three times standing side by side: front view, three-quarter view, side view, full body, blond hair in a traditional side-part cut with long bangs, no glasses, calm friendly face, muted green t-shirt, brown shorts, white socks, no shoes, holding a closed book with a plain cover, calm delicate transparent watercolor, plain white paper background --ar 3:2 --sref <SREF> --stylize 100 --no hatching, cross-hatching, perfectly round ball-shaped head, dot eyes, stick-like hair, vector, realistic proportions, anime, text, letters, words, book title, glasses, speech bubbles, captions, border, frame, panel lines, background scenery
 ```
 
 ## Prompt 2: Couch poses (with the cat)
 ```
-pose sheet for a children's picture book character, the same 10-year-old boy shown three times sitting on a simple couch with a small black-and-white tuxedo cat curled up asleep beside him in every pose: (1) absorbed in reading, (2) throwing his arms up in excitement over his book, mouth open, (3) looking up from his book with a warm smile, blond side-part hair with long bangs, muted green t-shirt, brown shorts, white socks, loose ink linework, delicate transparent watercolor, white background --ar 3:2 --sref <SREF> --oref <OWEN_OREF> --ow 100 --v 7 --no hatching, cross-hatching, realistic proportions, anime, text, letters, words, numbers, book title, glasses, speech bubbles, captions, border, frame, panel lines
+pose sheet for a children's picture book character, the same 10-year-old boy shown three times sitting on a simple couch with a small black-and-white tuxedo cat curled up asleep beside him in every pose: (1) absorbed in reading, (2) throwing his arms up in excitement over his book, mouth open, (3) looking up from his book with a warm smile, blond side-part hair with long bangs, muted green t-shirt, brown shorts, white socks, hand-inked with a fine sable brush, lively fluid lines that swell and taper, calm delicate transparent watercolor, white background --ar 3:2 --sref <SREF> --oref <OWEN_OREF> --ow 100 --v 7 --no hatching, cross-hatching, perfectly round ball-shaped head, dot eyes, stick-like hair, vector, realistic proportions, anime, text, letters, words, numbers, book title, glasses, speech bubbles, captions, border, frame, panel lines
 ```
 
 | # | Pose | Used on |
@@ -25,7 +25,7 @@ pose sheet for a children's picture book character, the same 10-year-old boy sho
 
 ## Prompt 3: The black-and-white cat (standalone ref)
 ```
-children's picture book illustration of a small black-and-white tuxedo cat curled up asleep in a ball, peaceful, loose ink linework, delicate transparent watercolor, plain white background --ar 1:1 --sref <SREF> --stylize 100 --no hatching, cross-hatching, realistic proportions, anime, text, letters, words, border, frame
+children's picture book illustration of a small black-and-white tuxedo cat curled up asleep in a ball, peaceful, hand-inked with a fine sable brush, lively fluid lines that swell and taper, calm delicate transparent watercolor, plain white background --ar 1:1 --sref <SREF> --stylize 100 --no hatching, cross-hatching, perfectly round ball-shaped head, dot eyes, stick-like hair, vector, realistic proportions, anime, text, letters, words, border, frame
 ```
 
 ## Acceptance checklist
