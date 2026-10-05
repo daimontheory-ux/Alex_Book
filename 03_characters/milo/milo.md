@@ -4,12 +4,12 @@
 
 ## Locked description (paste-ready prompt fragment)
 ```
-7-year-old boy, blond hair in a messy middle-part curtain cut with long wavy locks falling to each side of his face, big expressive eyes, very expressive face, plain light blue t-shirt, blue jeans, blue sneakers
+7-year-old boy, blond hair in a messy middle-part curtain cut with long wavy locks falling to each side of his face, simple oval eyes with dot pupils, big elastic expressive mouth, plain light blue t-shirt, blue jeans, blue sneakers
 ```
 
 ## Prompt 1: Turnaround
 ```
-character turnaround sheet for a children's picture book, newspaper comic strip style, oversized round head, cartoon proportions, simple oval eyes with dot pupils, clean economical brush-ink outlines, 7-year-old boy shown three times standing side by side: front view, three-quarter view, side view, full body, blond hair in a messy middle-part curtain cut with long wavy locks falling to each side of his face, big expressive eyes, wide happy grin, plain light blue t-shirt, blue jeans, blue sneakers, loose ink linework, delicate transparent watercolor, plain white paper background --ar 3:2 --sref <SREF> --stylize 100 --no hatching, cross-hatching, realistic proportions, anime, text, letters, words, speech bubbles, captions, signature, border, frame, panel lines, background scenery
+character turnaround sheet for a children's picture book, newspaper comic strip style, oversized round head, cartoon proportions, simple oval eyes with dot pupils, clean economical brush-ink outlines, 7-year-old boy shown three times standing side by side: front view, three-quarter view, side view, full body, blond hair in a messy middle-part curtain cut with long wavy locks falling to each side of his face, wide happy grin, plain light blue t-shirt, blue jeans, blue sneakers, loose ink linework, delicate transparent watercolor, plain white paper background --ar 3:2 --sref <SREF> --stylize 100 --no hatching, cross-hatching, realistic proportions, anime, text, letters, words, speech bubbles, captions, signature, border, frame, panel lines, background scenery
 ```
 
 ## Prompt 2: Expression sheet
