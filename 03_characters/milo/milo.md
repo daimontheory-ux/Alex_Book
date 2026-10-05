@@ -9,14 +9,14 @@
 
 ## Prompt 1: Turnaround
 ```
-character turnaround sheet for a children's picture book, 7-year-old boy shown three times standing side by side: front view, three-quarter view, side view, full body, blond hair in a messy middle-part curtain cut with long wavy locks falling to each side of his face, big expressive eyes, wide happy grin, plain light blue t-shirt, blue jeans, blue sneakers, loose ink linework, delicate transparent watercolor, plain white paper background --ar 3:2 --sref <SREF> --stylize 100 --no text, letters, words, speech bubbles, captions, signature, border, frame, panel lines, background scenery
+character turnaround sheet for a children's picture book, newspaper comic strip style, oversized round head, cartoon proportions, simple oval eyes with dot pupils, clean economical brush-ink outlines, 7-year-old boy shown three times standing side by side: front view, three-quarter view, side view, full body, blond hair in a messy middle-part curtain cut with long wavy locks falling to each side of his face, big expressive eyes, wide happy grin, plain light blue t-shirt, blue jeans, blue sneakers, loose ink linework, delicate transparent watercolor, plain white paper background --ar 3:2 --sref <SREF> --stylize 100 --no hatching, cross-hatching, realistic proportions, anime, text, letters, words, speech bubbles, captions, signature, border, frame, panel lines, background scenery
 ```
 
 ## Prompt 2: Expression sheet
 Milo's expressions are the emotional engine of the book. Each one maps to specific pages.
 
 ```
-expression sheet for a children's picture book character, the same 7-year-old boy shown six times, head and shoulders: (1) huge open-mouth joyful grin, (2) furious shouting with scrunched eyes and clenched fists, (3) frozen wide-eyed surprise, (4) narrowed eyes and tongue poking out in concentration, (5) sheepish embarrassed small smile, (6) wry knowing half-smile, blond messy middle-part curtain hair with long wavy locks, light blue t-shirt, loose ink linework, delicate transparent watercolor, plain white background --ar 3:2 --sref <SREF> --oref <MILO_OREF> --ow 100 --v 7 --no text, letters, words, numbers, speech bubbles, captions, border, frame, panel lines
+expression sheet for a children's picture book character, the same 7-year-old boy shown six times, head and shoulders: (1) huge open-mouth joyful grin, (2) furious shouting with scrunched eyes and clenched fists, (3) frozen wide-eyed surprise, (4) narrowed eyes and tongue poking out in concentration, (5) sheepish embarrassed small smile, (6) wry knowing half-smile, blond messy middle-part curtain hair with long wavy locks, light blue t-shirt, loose ink linework, delicate transparent watercolor, plain white background --ar 3:2 --sref <SREF> --oref <MILO_OREF> --ow 100 --v 7 --no hatching, cross-hatching, realistic proportions, anime, text, letters, words, numbers, speech bubbles, captions, border, frame, panel lines
 ```
 
 | # | Expression | Used on |

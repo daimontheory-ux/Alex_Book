@@ -9,12 +9,12 @@
 
 ## Prompt 1: Turnaround
 ```
-character turnaround sheet for a children's picture book, 7-year-old Hispanic boy shown three times standing side by side: front view, three-quarter view, side view, full body, short dark hair, warm brown skin, easygoing friendly grin, orange and teal basketball jersey tank top, matching shorts, sneakers, holding an orange basketball, loose ink linework, delicate transparent watercolor, plain white paper background --ar 3:2 --sref <SREF> --stylize 100 --no text, letters, words, numbers, team logos, speech bubbles, captions, border, frame, panel lines, background scenery
+character turnaround sheet for a children's picture book, newspaper comic strip style, oversized round head, cartoon proportions, simple oval eyes with dot pupils, clean economical brush-ink outlines, 7-year-old Hispanic boy shown three times standing side by side: front view, three-quarter view, side view, full body, short dark hair, warm brown skin, easygoing friendly grin, orange and teal basketball jersey tank top, matching shorts, sneakers, holding an orange basketball, loose ink linework, delicate transparent watercolor, plain white paper background --ar 3:2 --sref <SREF> --stylize 100 --no hatching, cross-hatching, realistic proportions, anime, text, letters, words, numbers, team logos, speech bubbles, captions, border, frame, panel lines, background scenery
 ```
 
 ## Prompt 2: Expression and pose sheet
 ```
-pose sheet for a children's picture book character, the same 7-year-old Hispanic boy shown four times, full body: (1) spinning a basketball on one finger with a big idea-grin, (2) mid-sentence being interrupted, mouth open, eyebrows raised, (3) walking away quietly with the ball tucked under his arm, shoulders low, (4) happily drumming on a cardboard box, short dark hair, orange and teal basketball jersey, loose ink linework, delicate transparent watercolor, plain white background --ar 3:2 --sref <SREF> --oref <DIEGO_OREF> --ow 100 --v 7 --no text, letters, words, numbers, logos, speech bubbles, captions, border, frame, panel lines
+pose sheet for a children's picture book character, the same 7-year-old Hispanic boy shown four times, full body: (1) spinning a basketball on one finger with a big idea-grin, (2) mid-sentence being interrupted, mouth open, eyebrows raised, (3) walking away quietly with the ball tucked under his arm, shoulders low, (4) happily drumming on a cardboard box, short dark hair, orange and teal basketball jersey, loose ink linework, delicate transparent watercolor, plain white background --ar 3:2 --sref <SREF> --oref <DIEGO_OREF> --ow 100 --v 7 --no hatching, cross-hatching, realistic proportions, anime, text, letters, words, numbers, logos, speech bubbles, captions, border, frame, panel lines
 ```
 
 | # | Pose | Used on |

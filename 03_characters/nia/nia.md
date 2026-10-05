@@ -9,12 +9,12 @@
 
 ## Prompt 1: Turnaround
 ```
-character turnaround sheet for a children's picture book, 7-year-old Black girl, tall for her age, shown three times standing side by side: front view, three-quarter view, side view, full body, long flowing hair worn down with a pink flower hair clip, warm bright smile, bright pink dress with lavender leggings, holding a small flower, loose ink linework, delicate transparent watercolor, plain white paper background --ar 3:2 --sref <SREF> --stylize 100 --no text, letters, words, speech bubbles, captions, border, frame, panel lines, background scenery
+character turnaround sheet for a children's picture book, newspaper comic strip style, oversized round head, cartoon proportions, simple oval eyes with dot pupils, clean economical brush-ink outlines, 7-year-old Black girl, tall for her age, shown three times standing side by side: front view, three-quarter view, side view, full body, long flowing hair worn down with a pink flower hair clip, warm bright smile, bright pink dress with lavender leggings, holding a small flower, loose ink linework, delicate transparent watercolor, plain white paper background --ar 3:2 --sref <SREF> --stylize 100 --no hatching, cross-hatching, realistic proportions, anime, text, letters, words, speech bubbles, captions, border, frame, panel lines, background scenery
 ```
 
 ## Prompt 2: Expression sheet
 ```
-expression sheet for a children's picture book character, the same 7-year-old Black girl shown five times, head and shoulders: (1) warm bright smile, (2) smile faltering, eyes downcast, hurt but not crying, (3) excited, explaining an idea with her hands, (4) delighted laughing, (5) knowing, gentle, slightly secret smile, long flowing hair with a pink flower clip, pink dress, loose ink linework, delicate transparent watercolor, plain white background --ar 3:2 --sref <SREF> --oref <NIA_OREF> --ow 100 --v 7 --no text, letters, words, numbers, speech bubbles, captions, border, frame, panel lines, tears
+expression sheet for a children's picture book character, the same 7-year-old Black girl shown five times, head and shoulders: (1) warm bright smile, (2) smile faltering, eyes downcast, hurt but not crying, (3) excited, explaining an idea with her hands, (4) delighted laughing, (5) knowing, gentle, slightly secret smile, long flowing hair with a pink flower clip, pink dress, loose ink linework, delicate transparent watercolor, plain white background --ar 3:2 --sref <SREF> --oref <NIA_OREF> --ow 100 --v 7 --no hatching, cross-hatching, realistic proportions, anime, text, letters, words, numbers, speech bubbles, captions, border, frame, panel lines, tears
 ```
 
 | # | Expression | Used on |
