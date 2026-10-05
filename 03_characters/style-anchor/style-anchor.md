@@ -56,7 +56,9 @@ classic newspaper comic strip style children's picture book illustration of a jo
 
 **Why words *and* references:** the style references control *how things are drawn* (line, wash, face rendering). They don't reliably control *what is drawn* (head shape, hair style, outfit). That's what the words are for, which is why the prompt describes the hair and body so specifically.
 
-**If the web interface won't accept typed weights:** drag all three images into the **Style Reference** slot. They'll blend equally, and you control the balance with the words instead.
+### Two ways to load the references
+- **Simple (recommended first):** drag all three images into the **Style Reference** slot and **delete the whole `--sref <A>::2 <B>::1 <C>::1` text** from the prompt. The slot replaces it. The three blend equally, and you steer with words. Use `--sw` (style weight, default 100) to turn the overall style influence up (e.g. 200) or down (e.g. 50).
+- **Weighted (only if needed):** remove the images from the slot. In your uploads, right-click each image → **Copy image address**, and paste each URL in place of `<A>`, `<B>`, `<C>`. Typed URLs with `::` weights are the only way to weight them individually.
 
 ## Prompt A: kid in motion (round 1, superseded by Prompt C)
 ```
