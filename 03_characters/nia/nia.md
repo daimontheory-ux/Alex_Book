@@ -26,7 +26,7 @@ expression sheet for a children's picture book character, the same 7-year-old Bl
 | 5 | Knowing, secret smile | p. 27 (the mystery beat) |
 
 ## Acceptance checklist
-- ☐ Reads clearly as a **Black girl** of about **7**, visibly **taller** than Milo and Diego.
+- ☐ Reads clearly as a **Black girl** of about **7**, visibly **taller** than Milo and Noah.
 - ☐ **Long, feminine hair worn down** (not an afro style); **flower clip** visible.
 - ☐ **Smiling** by default. The faltering version (#2) reads as hurt, never as tears.
 - ☐ Pinks and lavender with a gold accent on the clip (story bible §7.3).

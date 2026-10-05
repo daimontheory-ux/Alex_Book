@@ -32,7 +32,7 @@ Milo is the loudest, happiest, most fun kid on the playground, but a "NO!" jumps
 | Role | Name |
 |---|---|
 | Protagonist | **Milo** |
-| Friend 1 (basketball) | **Diego** |
+| Friend 1 (basketball) | **Noah** |
 | Friend 2 (pretty things) | **Nia** |
 | Older brother | **Owen** |
 | Family cat (Russian Blue) | **Boris** |
@@ -50,11 +50,11 @@ Milo is the loudest, happiest, most fun kid on the playground, but a "NO!" jumps
   - **Face:** very expressive. A big open-mouth grin when happy; furrowed brows and scrunched fists when the NO comes out.
   - **Outfit (every page):** plain light-blue T-shirt, blue jeans, blue sneakers.
 
-### 3.3 Diego (friend, 7)
-- Hispanic boy, Milo's age. Loves basketball; usually carries or spins one.
+### 3.3 Noah (friend, 7)
+- Korean boy, Milo's age. Loves basketball; usually carries or spins one.
 - Easygoing and creative. He likes adding twists to games (trick shots, new rules).
 - Being yelled at doesn't make him angry; it makes him **quiet**, and he walks away. (Shows kids that hurt often looks like quiet, not anger.)
-- **Visual:** basketball jersey or tank top, sneakers, short dark hair, ball always nearby.
+- **Visual:** basketball jersey or tank top, sneakers, short straight black hair with neat bangs, ball always nearby.
 
 ### 3.4 Nia (friend, 7)
 - Black girl, Milo's age, noticeably **taller** than Milo.
@@ -129,10 +129,10 @@ Target: **28 interior pages** (+ cover, dedication).
 - The NO gag: Mom asks "Pancakes?" and Milo shouts "NO!", then quietly, "...yes." The NO jumps out before he can catch it. *(Refrain established.)*
 
 ### Act 2: Change 1, **Struggle**: the basketball game (pp. 4–12)
-- **Playground, HORSE.** It's Milo's game, played Milo's way. Diego grins: "New rule: every shot has to be a trick shot!"
-- The NO jumps out. Milo yells over Diego until Diego stops talking.
-- Diego goes quiet, picks up his ball, and walks away.
-- **Discovery page:** as Diego turns, Milo sees five squares above his head, and **two of them go dark**. Milo rubs his eyes. *(First meter in the book.)*
+- **Playground, HORSE.** It's Milo's game, played Milo's way. Noah grins: "New rule: every shot has to be a trick shot!"
+- The NO jumps out. Milo yells over Noah until Noah stops talking.
+- Noah goes quiet, picks up his ball, and walks away.
+- **Discovery page:** as Noah turns, Milo sees five squares above his head, and **two of them go dark**. Milo rubs his eyes. *(First meter in the book.)*
 - **Home that evening:** Owen is reading on the couch, his cat curled beside him, and shouts "PLOT TWIST!" Milo asks what that is. Owen, still reading: "When the story suddenly goes a different way. It's the best part. You never know what happens next." Milo says nothing, but he files it away.
 - **The experiments** (the high-IQ pages): Milo now sees meters on Mom, Dad, and Owen. He tests: "Thanks, Dad" fills a square. Hugging Mom fills a square. Grumbling at Owen empties one.
 - **The Boris experiments** (comic relief): Boris meows at his empty bowl and his little 2-square meter drains. Milo feeds him and it refills. Milo pets him... and pets him... and pets him, and the meter overfills, **SWAT!** Boris bolts. Milo, holding his hand, figures out a new rule.
@@ -145,10 +145,10 @@ Target: **28 interior pages** (+ cover, dedication).
 - **His own meter:** he hops off the swing and looks into the puddle. Above his own reflection is a meter, and it's low too. Yelling emptied *his*.
 
 ### Act 4: Change 3, **Success**: the piano (pp. 20–28)
-- **Home.** Diego and Nia come over. Milo plays his song on the piano, his way.
+- **Home.** Noah and Nia come over. Milo plays his song on the piano, his way.
 - Nia slides onto the bench and starts playing along, right over him.
 - **The NO rises** (drawn as a word bubble pushing up from his chest). Milo squeezes his eyes shut, holds it, and thinks: *Plot twist?* *(Refrain payoff: "This time, Milo caught it.")*
-- "PLOT TWIST! It's a duet now!" Diego drums on a box. Owen looks up from his book. Boris pounces onto the keys.
+- "PLOT TWIST! It's a duet now!" Noah drums on a box. Owen looks up from his book. Boris pounces onto the keys.
 - **All meters fill**, square by square, including Milo's.
 - **Mystery beat:** Nia leans over: "Your meter's full, you know." Milo: "You can SEE it?!" Nia just smiles. No answer is ever given.
 - **Last page:** another everyday change arrives: Mom calls "Bath time!", an echo of the Act 1 pancakes gag. In the bathroom mirror, Milo gives a **wry smile**: "...Plot twist." **One square refills** on his meter (4 → 5).
@@ -168,13 +168,13 @@ Target: **28 interior pages** (+ cover, dedication).
 - **Nothing but art and words.** No borders, no panel frames, no page numbers, no decorative elements.
 - **Text placement:** complementary to the artwork, **generally in the upper half on the left or right**, sitting in the white space beside the figures, the way classic newspaper comic panels place narration. Art must be generated with that corner left open.
 - **Meter zone:** clear white space above characters' heads, one head width wide.
-- Characters stay at a consistent scale relative to each other: Nia is taller than Milo and Diego; Owen is the tallest kid.
+- Characters stay at a consistent scale relative to each other: Nia is taller than Milo and Noah; Owen is the tallest kid.
 - Backgrounds stay sparse: 1–3 setting props per page. White wins.
 - Emotional peaks (the discovery, the puddle, the duet) get **more white space**, not more detail.
 
 ### 7.3 Palette
 - **Milo:** blond hair; light-blue tee, blue jeans, blue sneakers. (All-blue outfit gives him a single, instantly findable color identity.)
-- **Diego:** orange/teal (basketball tones).
+- **Noah:** orange/teal (basketball tones).
 - **Nia:** pinks, lavender, a gold accent on her flower clip.
 - **Owen:** blond hair; muted green tee, brown shorts, white socks; black-and-white cat.
 - **Boris:** blue-grey with green eyes.
@@ -206,8 +206,9 @@ Target: **28 interior pages** (+ cover, dedication).
 No open items. Gate 1 is closed.
 
 ## Changelog
+- **v0.6 (2026-10-04):** Friend 1 changed from Diego (Hispanic) to **Noah (Korean)**, to keep the book further from real life. Role, personality, and basketball unchanged. (Earlier changelog entries were updated to the new name.)
 - **v0.5 (2026-10-04):** Milo's hair clarified (short #4 sides/back, shaggy wavy middle-parted top); Milo's build added.
 - **v0.4 (2026-10-04):** style description adds soft, pale, muted watercolor; house style weight `--sw 60` (see `03_characters/README.md`).
 - **v0.3 (2026-10-04):** final page refills a square (no 6th square); Milo sees his own meter only in reflections; Owen's cat meter always 2/2; Bath time confirmed. Gate 1 approved.
-- **v0.2 (2026-10-04):** applied Daimon's review: renamed Friend 1 → Diego and brother → Owen; locked Milo/Owen/Nia visuals; added Owen's unnamed B&W cat; Boris → family cat who plays with Milo; autumn leaves; baseline 4 + new fill triggers; Boris 2-square meter with drain/refill/overfill; meter = head width; 8×8 no-border layout with upper-half text; ending keeps mystery; last page = wry "plot twist" + new square.
+- **v0.2 (2026-10-04):** applied Daimon's review: renamed Friend 1 → Noah and brother → Owen; locked Milo/Owen/Nia visuals; added Owen's unnamed B&W cat; Boris → family cat who plays with Milo; autumn leaves; baseline 4 + new fill triggers; Boris 2-square meter with drain/refill/overfill; meter = head width; 8×8 no-border layout with upper-half text; ending keeps mystery; last page = wry "plot twist" + new square.
 - **v0.1 (2026-10-04):** initial draft.

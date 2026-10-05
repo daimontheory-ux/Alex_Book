@@ -36,7 +36,7 @@ For each character file (`milo/milo.md` etc.):
 3. Save picks using the naming below. Fill in the **Lock record** at the bottom of the character file.
 
 ### Step 2: Size lineup
-Run the lineup prompt in `lineup/lineup.md` to confirm relative heights (Owen > Nia > Milo ≈ Diego). Composite it in Canva if needed.
+Run the lineup prompt in `lineup/lineup.md` to confirm relative heights (Owen > Nia > Milo ≈ Noah). Composite it in Canva if needed.
 
 ### Step 3: Review and lock
 Drop picks into the folder (or attach them in this chat). I'll review each against the checklist in its file, and you approve. Once a character is locked, **its reference images never change**.
@@ -57,7 +57,7 @@ Drop picks into the folder (or attach them in this chat). I'll review each again
 |---|---|---|---|
 | Style anchor | — | — | ✅ |
 | Milo | ✅ | ☐ | ☐ |
-| Diego | ☐ | ☐ | ☐ |
+| Noah | ☐ | ☐ | ☐ |
 | Nia | ☐ | ☐ | ☐ |
 | Owen + B&W cat | ☐ | ☐ | ☐ |
 | Boris | ☐ | ☐ | ☐ |

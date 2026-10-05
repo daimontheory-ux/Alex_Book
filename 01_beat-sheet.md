@@ -51,29 +51,29 @@
 ## Act 2: Change 1, Struggle (the basketball game)
 
 ### Page 4: Milo's game
-- **Setting:** playground, the half-court. Autumn leaves on the blacktop. Milo and Diego playing HORSE; Milo mid-shot, Diego cheering.
+- **Setting:** playground, the half-court. Autumn leaves on the blacktop. Milo and Noah playing HORSE; Milo mid-shot, Noah cheering.
 - **Meters:** none.
 - **Text side:** R
-- **Text:** *At the playground, Milo and Diego played HORSE. Milo's game. Milo's rules.*
+- **Text:** *At the playground, Milo and Noah played HORSE. Milo's game. Milo's rules.*
 
 ### Page 5: New rule!
-- **Setting:** half-court. Diego spinning the ball on one finger, grinning, full of ideas.
+- **Setting:** half-court. Noah spinning the ball on one finger, grinning, full of ideas.
 - **Meters:** none.
 - **Text side:** L
-- **Text:** Diego: *"New rule! Every shot has to be a TRICK shot!"*
+- **Text:** Noah: *"New rule! Every shot has to be a TRICK shot!"*
 
 ### Page 6: NO! NO! NO!
-- **Setting:** half-court. Milo yelling, fists clenched, a cascade of NO bubbles. Diego trying to talk; his speech bubble shrinks to tiny dots.
+- **Setting:** half-court. Milo yelling, fists clenched, a cascade of NO bubbles. Noah trying to talk; his speech bubble shrinks to tiny dots.
 - **Meters:** none.
 - **Text side:** R
 - **Text:** **"NO! That's NOT how you play! NO NO NO!"** *The NO jumped out before Milo could catch it.*
-- **Art note:** the loudest page in the book. Diego's shrinking bubble shows him being shouted over without saying it.
+- **Art note:** the loudest page in the book. Noah's shrinking bubble shows him being shouted over without saying it.
 
 ### Page 7: The first meter
-- **Setting:** half-court, mostly white. Diego walking away with the ball tucked under his arm, shoulders low. Milo alone, rubbing his eyes.
-- **Meters:** Diego `4→2` (puff).
+- **Setting:** half-court, mostly white. Noah walking away with the ball tucked under his arm, shoulders low. Milo alone, rubbing his eyes.
+- **Meters:** Noah `4→2` (puff).
 - **Text side:** L
-- **Text:** *Diego got very quiet. He picked up his ball and walked away. And then Milo saw something strange.*
+- **Text:** *Noah got very quiet. He picked up his ball and walked away. And then Milo saw something strange.*
 - **Art note:** the **discovery page**. The first meter in the book. Lots of white space; one leaf falling. Pause here when reading aloud.
 
 ### Page 8: PLOT TWIST!
@@ -165,11 +165,11 @@
 ## Act 4: Change 3, Success (the piano)
 
 ### Page 20: Milo's song
-- **Setting:** living room. Milo at the piano, playing with gusto. Diego and Nia on the rug listening. Owen on the couch with his book and his cat. Boris on top of the piano.
-- **Meters:** Diego 4. Nia 4. Owen 4. Owen's cat 2/2. Boris 2.
+- **Setting:** living room. Milo at the piano, playing with gusto. Noah and Nia on the rug listening. Owen on the couch with his book and his cat. Boris on top of the piano.
+- **Meters:** Noah 4. Nia 4. Owen 4. Owen's cat 2/2. Boris 2.
 - **Text side:** R
-- **Text:** *Diego and Nia came over. Milo played his song on the piano his way.*
-- **Art note:** Diego and Nia are back at baseline 4. Time has refilled them, and that shows quietly that repair happened offstage.
+- **Text:** *Noah and Nia came over. Milo played his song on the piano his way.*
+- **Art note:** Noah and Nia are back at baseline 4. Time has refilled them, and that shows quietly that repair happened offstage.
 
 ### Page 21: Plink plonk
 - **Setting:** piano bench. Nia slides in next to Milo and plays her own notes over his. Music notes tangling in the air.
@@ -198,10 +198,10 @@
 - **Text:** **"PLOT TWIST! It's a DUET now!"**
 
 ### Page 25: The band
-- **Setting:** whole living room in motion. Diego drumming on a cardboard box, Nia and Milo playing, Boris pouncing on the keys, Owen looking up from his book, smiling.
-- **Meters:** Diego `4→5`, Owen `4→5`, Boris 2 (all sparkle). Owen's cat 2/2 (still asleep).
+- **Setting:** whole living room in motion. Noah drumming on a cardboard box, Nia and Milo playing, Boris pouncing on the keys, Owen looking up from his book, smiling.
+- **Meters:** Noah `4→5`, Owen `4→5`, Boris 2 (all sparkle). Owen's cat 2/2 (still asleep).
 - **Text side:** L
-- **Text:** *Diego drummed. Boris pounced. Even Owen looked up from his book.*
+- **Text:** *Noah drummed. Boris pounced. Even Owen looked up from his book.*
 - **Art note:** the busiest, happiest page. Owen's cat sleeps through all of it.
 
 ### Page 26: Full
@@ -241,7 +241,7 @@
 - **p. 11:** ghosted earlier state shows the drain; text cut to "Even Boris has one!"
 - **p. 20:** text trimmed.
 - **Refrain 2** stays a single use (p. 17). The reader is trusted to apply it as a law.
-- **Diego:** no on-page make-up moment. His refilled meter on p. 20 is enough.
+- **Noah:** no on-page make-up moment. His refilled meter on p. 20 is enough.
 
 ## Changelog
 - **v0.2 (2026-10-04):** Daimon's review applied; Gate 2 approved.

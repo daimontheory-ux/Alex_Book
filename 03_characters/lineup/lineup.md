@@ -2,7 +2,7 @@
 
 Confirms relative heights so every page keeps the kids at a consistent scale.
 
-**Target:** Owen (10) tallest → Nia (tall 7) → Milo ≈ Diego (7). Boris at knee height.
+**Target:** Owen (10) tallest → Nia (tall 7) → Milo ≈ Noah (7). Boris at knee height.
 
 ## Approach
 Midjourney won't reliably hold four referenced characters in one image. Build the lineup in **Canva** from the locked turnaround front views, scaling each figure:
@@ -12,7 +12,7 @@ Midjourney won't reliably hold four referenced characters in one image. Build th
 | Owen | 100% |
 | Nia | ~92% |
 | Milo | ~85% |
-| Diego | ~85% |
+| Noah | ~85% |
 | Boris (sitting) | ~25% |
 
 Draw a faint horizontal guideline at each head height. Save the result as `lineup_LOCKED.png`.

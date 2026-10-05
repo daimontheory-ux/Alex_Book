@@ -37,18 +37,18 @@ Every line is tagged with how it's lettered in Canva. The tag also tells the ima
 ## Act 2
 
 ### Page 4 · Text side: R
-- **N:** At the playground, Milo and Diego played HORSE. Milo's game. Milo's rules.
+- **N:** At the playground, Milo and Noah played HORSE. Milo's game. Milo's rules.
 
 ### Page 5 · Text side: L
-- **SB** (Diego): New rule! Every shot has to be a TRICK shot!
+- **SB** (Noah): New rule! Every shot has to be a TRICK shot!
 
 ### Page 6 · Text side: R
 - **SHOUT** (Milo): NO! That's NOT how you play! NO NO NO!
-- **SB** (Diego, shrinking bubble): But I just— *(lettering shrinks to tiny dots)*
+- **SB** (Noah, shrinking bubble): But I just— *(lettering shrinks to tiny dots)*
 - **N:** The NO jumped out before Milo could catch it.
 
 ### Page 7 · Text side: L
-- **N:** Diego got very quiet. He picked up his ball and walked away.
+- **N:** Noah got very quiet. He picked up his ball and walked away.
 - **N:** And then Milo saw something strange.
 
 ### Page 8 · Text side: R
@@ -106,7 +106,7 @@ Every line is tagged with how it's lettered in Canva. The tag also tells the ima
 ## Act 4
 
 ### Page 20 · Text side: R
-- **N:** Diego and Nia came over. Milo played his song on the piano his way.
+- **N:** Noah and Nia came over. Milo played his song on the piano his way.
 
 ### Page 21 · Text side: L
 - **N:** Then Nia slid onto the bench... and started playing along. Right over Milo's song.
@@ -124,7 +124,7 @@ Every line is tagged with how it's lettered in Canva. The tag also tells the ima
 - **SHOUT, golden style** (Milo): PLOT TWIST! It's a DUET now!
 
 ### Page 25 · Text side: L
-- **N:** Diego drummed. Boris pounced. Even Owen looked up from his book.
+- **N:** Noah drummed. Boris pounced. Even Owen looked up from his book.
 - **SFX:** BOOM-tap! PLONK!
 
 ### Page 26 · Text side: R
@@ -149,7 +149,7 @@ Every line is tagged with how it's lettered in Canva. The tag also tells the ima
 - Total length is about 340 words, roughly a 5–7 minute read-aloud with pauses.
 
 ## Pass notes: what changed from the beat sheet (please confirm)
-1. **p. 6:** added Diego's cut-off "But I just—" in a shrinking bubble, so being shouted over is *shown*, not narrated.
+1. **p. 6:** added Noah's cut-off "But I just—" in a shrinking bubble, so being shouted over is *shown*, not narrated.
 2. **p. 11:** added a small "mrrrOW?" SFX on the ghosted Boris. It helps the ghost image read as "earlier" without more words.
 3. **p. 15:** "That was NOT the fix." → "Uh-oh." The old line was the narrator judging Milo. "Uh-oh" lets the reader draw the conclusion, which fits principle P2 (no lectures).
 4. **p. 19:** "Even his own." → a thought bubble, "...Even mine." The realization becomes Milo's, not the narrator's.
