@@ -44,6 +44,24 @@ The anchor's boy has the right face and proportions, but his hair is a **swept-u
 - ⚠ The middle part is soft rather than crisp, and the back reads slightly longer than a #4 cut. Both are accepted as-is; re-check on close-ups.
 - ➕ **Freckles** appeared (light, across nose and cheeks). They're now **canon**: keep them on every page.
 
+## Expressions set 1 review (2026-10-04, V7)
+| Face (left→right, top row then bottom) | Reads as | Use for |
+|---|---|---|
+| 1 | Joyful grin ✅ | pp. 1, 4, 24–26 |
+| 2 | Furious shout ✅ (the strongest "NO" face) | pp. 2, 6, 14 |
+| 3 | Uneasy, arms crossed | p. 15 (the grudging "FINE") |
+| 4 | Whiny yell, eyes narrowed | p. 6 alternate |
+| 5 | Wince / alarmed yell | not needed; reads as pain or fear |
+
+**Missing:** concentrating (tongue out), sheepish, wry half-smile, and "holding the NO." These come in set 2.
+**Drift to watch:** the hair went **ginger/orange and spikier** than the turnaround's golden blond; **blue irises** appeared (the turnaround has black pupils); and skin is warmer. Two small fake "signatures" also appeared (bottom left, mid right). Erase them in Canva.
+
+## Prompt 2b: Expressions set 2 (the missing faces)
+```
+expression sheet for a children's picture book character, the same small 7-year-old boy shown four times, head and shoulders: eyes narrowed and tongue poking out of the corner of his mouth in concentration; sheepish embarrassed small smile with eyes looking down; wry knowing half-smile with one eyebrow raised; eyes squeezed shut and cheeks puffed out holding his breath, pale golden blond curtain haircut with short clipped sides, soft shaggy wavy hair on top parted down the middle, light freckles, big expressive eyes with clear whites and black pupils, thick expressive eyebrows, light blue t-shirt, classic newspaper comic strip style, hand-inked light lively brush lines, soft, pale, muted, calm transparent watercolor, plain white background --ar 3:2 --sref <SREF> --sw 60 --oref <MILO_OREF> --ow 150 --v 7 --no red hair, ginger hair, orange hair, spiky hair, long hair, quiff, pompadour, signature, hatching, cross-hatching, dot eyes, vector, anime, text, letters, words, numbers, speech bubbles, captions, border, frame, panel lines
+```
+Changes from Prompt 2: four faces instead of six (fewer faces = more consistency), `--ow 150` (stronger character lock), and the hair color and texture pinned down ("pale golden blond," "soft") with ginger, orange, and spiky excluded.
+
 ## Acceptance checklist
 - ☐ Hair: **blond**, **short clipped sides and back** with ears showing; **shaggy wavy top parted down the middle**; wavy bangs to either side. Not long, not a quiff, not a bowl cut.
 - ☐ **Small**: about 3.5 heads tall; reads as a little 7-year-old, not a lanky tween.
@@ -59,5 +77,6 @@ The anchor's boy has the right face and proportions, but his hair is a **swept-u
 | Turnaround | `milo_turnaround_LOCKED.png` | Prompt 1 (as above, `--sref` via Styles box, `--sw 60`); V8.2; https://cdn.midjourney.com/0a2b04ed-3069-4f16-9417-93be82f266a8/0_0.png | ✅ Daimon 2026-10-04 |
 | Front (cropped from turnaround) | `milo_front_LOCKED.png` | cropped from turnaround | ✅ |
 | Three-quarter (cropped) | `milo_threequarter_LOCKED.png` | cropped from turnaround | ✅ |
-| Expression sheet | `milo_expressions_LOCKED.png` | | ☐ |
+| Expressions set 1 | `milo_expressions_set1_LOCKED.png` | Prompt 2, V7 + Omni Reference (milo_front) + Styles (anchor), `--sw 60`; https://cdn.midjourney.com/089680b2-212f-460b-a946-18329799d49f/0_0.png | ✅ Daimon 2026-10-04 (see review) |
+| Expressions set 2 | `milo_expressions_set2_LOCKED.png` | Prompt 2b | ☐ |
 | `--oref` URL | | | |
