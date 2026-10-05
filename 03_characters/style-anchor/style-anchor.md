@@ -81,10 +81,24 @@ classic newspaper comic strip style children's picture book illustration of a sm
 
 Once one image nails the look, it becomes the style reference, and **every later prompt inherits the proportions and line quality automatically.** That's why this step gets the most re-rolls.
 
+## Anchor review (2026-10-04)
+| Criterion | Result |
+|---|---|
+| Proportions: big head, slim body, thin limbs | ✅ Strong. The right silhouette. |
+| Big expressive eyes, mobile brows | ✅ |
+| Hand-inked, light, lively line on the figure | ✅ |
+| Hair volume and brush clumps | ✅ volume / ⚠ **style is a swept-up quiff, not Milo's middle-part curtain.** Fix in Milo's prompts, not here. |
+| Calm, delicate watercolor | ⚠ The leaf pile is denser and more saturated (red-orange, black accents, flame-like strokes) than "calm." Acceptable for a style anchor; watch for it in page art. |
+| Mostly white paper | ✅ |
+
+**Watch-outs when using this anchor:**
+- If page art comes out too intense or too orange, lower `--sw` to 50–75, or add "soft, pale, muted watercolor" to the prompt.
+- The quiff may bleed into Milo. His prompts now exclude it explicitly.
+
 ## Lock record
 | Field | Value |
 |---|---|
-| Chosen file | `STYLE_ANCHOR.png` *(image pending upload)* |
+| Chosen file | `STYLE_ANCHOR.png` ✅ |
 | Prompt used | Prompt C text (above), without the `--sref` chunk; refs A, B, C loaded via the Styles box, equal weight |
 | Exact prompt | classic newspaper comic strip style children's picture book illustration of a joyful 7-year-old boy leaping over a pile of autumn leaves, large head on a small slim body with thin arms and legs, big expressive eyes with clear whites and black pupils, thick expressive eyebrows, small button nose, rosy cheeks, wide open-mouth grin, full voluminous blond hair parted in the middle with long wavy locks falling to each side of his face, hair drawn as a few bold flowing brush-stroke clumps, plain light blue t-shirt, blue jeans, blue sneakers, light economical hand-inked outlines on the boy only, the leaves and background painted in loose calm watercolor with almost no outlines, white paper showing through, mostly white background, lots of negative space |
 | Model version | V8.2 (default) |

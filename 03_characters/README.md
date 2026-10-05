@@ -54,7 +54,7 @@ Drop picks into the folder (or attach them in this chat). I'll review each again
 
 | Character | Turnaround | Expressions | Locked |
 |---|---|---|---|
-| Style anchor | — | — | ☐ |
+| Style anchor | — | — | ✅ |
 | Milo | ☐ | ☐ | ☐ |
 | Diego | ☐ | ☐ | ☐ |
 | Nia | ☐ | ☐ | ☐ |
