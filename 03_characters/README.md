@@ -24,6 +24,8 @@ The art is **mostly white paper**, so you rarely need the AI to put three kids i
 
 ## Workflow
 
+**New to Midjourney?** Start with `docs/midjourney-guide.md`.
+
 ### Step 0: Style anchor (do this first)
 Prompts are in `style-anchor/style-anchor.md`. Generate, pick **one** image whose *feel* you love (line, wash, white space, palette), and save it as `style-anchor/STYLE_ANCHOR.png`. Upload it to Midjourney and keep its URL. That URL becomes `--sref` on every prompt that follows.
 
