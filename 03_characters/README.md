@@ -47,6 +47,7 @@ Drop picks into the folder (or attach them in this chat). I'll review each again
 - **File names:** `<character>_<view>_LOCKED.png` for approved refs (e.g. `milo_front_LOCKED.png`). Candidates under review use `_cand1`, `_cand2`. Delete rejected candidates; don't commit them.
 - **Prompts never name a real artist or comic strip.** The style is described, not borrowed.
 - **Every prompt ends with:** `--no text, letters, words, speech bubbles, captions, signature, border, frame, panel lines` (Midjourney sometimes invents lettering; we letter in Canva).
+- **House style settings (locked 2026-10-04):** every prompt includes `soft, pale, muted, calm transparent watercolor` and `--sw 60` (style weight). This keeps the anchor's line and face while toning down its saturated leaf pile. When the anchor sits in the Styles box instead of a typed `--sref`, still keep `--sw 60`.
 - **Aspect ratio:** `--ar 3:2` for turnaround and expression sheets (wide), `--ar 1:1` for single figures and all page art.
 - **Record everything:** for each locked image, note the full prompt, model version, and Midjourney job URL in the character file's Lock record, so we can regenerate or extend later.
 

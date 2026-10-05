@@ -10,7 +10,7 @@ Their appearance isn't defined in the bible yet. Decide:
 
 ## Prompt template (fill in once decided)
 ```
-character turnaround sheet for a children's picture book, a warm friendly mother shown three times standing: front view, three-quarter view, side view, full body, <HAIR>, <OUTFIT>, kind smile, hand-inked with a fine sable brush, lively fluid lines that swell and taper, calm delicate transparent watercolor, plain white paper background --ar 3:2 --sref <SREF> --stylize 100 --no text, letters, words, speech bubbles, captions, border, frame, panel lines, background scenery
+character turnaround sheet for a children's picture book, a warm friendly mother shown three times standing: front view, three-quarter view, side view, full body, <HAIR>, <OUTFIT>, kind smile, hand-inked with a fine sable brush, lively fluid lines that swell and taper, soft, pale, muted, calm transparent watercolor, plain white paper background --ar 3:2 --sref <SREF> --sw 60 --stylize 100 --no text, letters, words, speech bubbles, captions, border, frame, panel lines, background scenery
 ```
 Repeat for Dad. Then generate a single pose image of each for the specific pages:
 - **Mom:** at the stove with a spatula (p. 2); receiving a hug from Milo at the dinner table (p. 10).

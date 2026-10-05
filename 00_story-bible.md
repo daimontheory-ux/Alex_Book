@@ -160,7 +160,7 @@ Target: **28 interior pages** (+ cover, dedication).
 ## 7. Visual style guide
 
 ### 7.1 Style description (the "style anchor"; never name a real artist in prompts)
-> Loose, confident ink linework with varied line weight; delicate transparent watercolor washes; a mostly white background with only suggested scenery (a hoop, a swing, a piano edge); a soft, muted, warm autumn palette; expressive, exaggerated cartoon faces; dynamic kid poses; a hand-drawn newspaper-comic feel; lots of negative space; calm and clear.
+> Loose, confident ink linework with varied line weight; soft, pale, muted, delicate transparent watercolor washes; a mostly white background with only suggested scenery (a hoop, a swing, a piano edge); a soft, muted, warm autumn palette; expressive, exaggerated cartoon faces; dynamic kid poses; a hand-drawn newspaper-comic feel; lots of negative space; calm and clear.
 
 ### 7.2 Page composition rules
 - **8×8 in square pages**, one frame per page, a single focal action.
@@ -205,6 +205,7 @@ Target: **28 interior pages** (+ cover, dedication).
 No open items. Gate 1 is closed.
 
 ## Changelog
+- **v0.4 (2026-10-04):** style description adds soft, pale, muted watercolor; house style weight `--sw 60` (see `03_characters/README.md`).
 - **v0.3 (2026-10-04):** final page refills a square (no 6th square); Milo sees his own meter only in reflections; Owen's cat meter always 2/2; Bath time confirmed. Gate 1 approved.
 - **v0.2 (2026-10-04):** applied Daimon's review: renamed Friend 1 → Diego and brother → Owen; locked Milo/Owen/Nia visuals; added Owen's unnamed B&W cat; Boris → family cat who plays with Milo; autumn leaves; baseline 4 + new fill triggers; Boris 2-square meter with drain/refill/overfill; meter = head width; 8×8 no-border layout with upper-half text; ending keeps mystery; last page = wry "plot twist" + new square.
 - **v0.1 (2026-10-04):** initial draft.

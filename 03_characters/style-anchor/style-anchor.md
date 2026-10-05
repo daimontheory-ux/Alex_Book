@@ -91,6 +91,8 @@ Once one image nails the look, it becomes the style reference, and **every later
 | Calm, delicate watercolor | ⚠ The leaf pile is denser and more saturated (red-orange, black accents, flame-like strokes) than "calm." Acceptable for a style anchor; watch for it in page art. |
 | Mostly white paper | ✅ |
 
+**Decision (2026-10-04):** adopt `--sw 60` and "soft, pale, muted, calm transparent watercolor" as house standards on every prompt that uses this anchor.
+
 **Watch-outs when using this anchor:**
 - If page art comes out too intense or too orange, lower `--sw` to 50–75, or add "soft, pale, muted watercolor" to the prompt.
 - The quiff may bleed into Milo. His prompts now exclude it explicitly.

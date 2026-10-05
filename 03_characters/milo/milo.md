@@ -1,22 +1,22 @@
 # Milo: Character Reference
 
-**Source of truth:** story bible §3.2. Replace `<SREF>` with the style anchor URL and `<MILO_OREF>` with the locked turnaround URL once it exists.
+**Source of truth:** story bible §3.2. Put `STYLE_ANCHOR.png` in the Styles box (or replace `<SREF>` with its URL) and `<MILO_OREF>` with the locked turnaround URL once it exists.
 
 ## Locked description (paste-ready prompt fragment)
 ```
-7-year-old boy, full voluminous blond hair in a messy middle-part curtain cut, long wavy locks drawn in flowing clumps of curved brush strokes falling to each side of his face, big expressive eyes, expressive eyebrows, big elastic mouth, plain light blue t-shirt, blue jeans, blue sneakers
+7-year-old boy, large head on a small slim body with thin arms and legs, full voluminous blond hair parted in the center, long wavy locks hanging down on each side of his face toward his ears, drawn in flowing brush-stroke clumps, big expressive eyes with clear whites and black pupils, thick expressive eyebrows, big elastic mouth, plain light blue t-shirt, blue jeans, blue sneakers
 ```
 
 ## Prompt 1: Turnaround
 ```
-character turnaround sheet for a children's picture book, classic newspaper comic strip style, large head with cartoon proportions about four heads tall, soft wide oval head, big expressive eyes with dark pupils, hand-inked with a fine sable brush, lively fluid lines that swell and taper, 7-year-old boy shown three times standing side by side: front view, three-quarter view, side view, full body, full voluminous blond hair in a messy middle-part curtain cut, long wavy locks drawn in flowing clumps of curved brush strokes falling to each side of his face, wide happy grin, plain light blue t-shirt, blue jeans, blue sneakers, calm delicate transparent watercolor, plain white paper background --ar 3:2 --sref <SREF> --stylize 100 --no quiff, pompadour, side-swept hair, hair swept up, hatching, cross-hatching, perfectly round ball-shaped head, dot eyes, stick-like hair, vector, realistic proportions, anime, text, letters, words, speech bubbles, captions, signature, border, frame, panel lines, background scenery
+character turnaround sheet for a children's picture book, classic newspaper comic strip style, large head on a small slim body with thin arms and legs, big expressive eyes with clear whites and black pupils, thick expressive eyebrows, hand-inked light lively brush lines, 7-year-old boy shown three times standing side by side: front view, three-quarter view, side view, full body, full voluminous blond hair parted in the center, long wavy locks hanging down on each side of his face toward his ears, drawn in flowing brush-stroke clumps, wide happy grin, plain light blue t-shirt, blue jeans, blue sneakers, soft, pale, muted, calm transparent watercolor, plain white paper background --ar 3:2 --sref <SREF> --sw 60 --stylize 100 --no quiff, pompadour, side-swept hair, hair swept up, hatching, cross-hatching, perfectly round ball-shaped head, dot eyes, stick-like hair, vector, realistic proportions, anime, text, letters, words, speech bubbles, captions, signature, border, frame, panel lines, background scenery
 ```
 
 ## Prompt 2: Expression sheet
 Milo's expressions are the emotional engine of the book. Each one maps to specific pages.
 
 ```
-expression sheet for a children's picture book character, the same 7-year-old boy shown six times, head and shoulders: (1) huge open-mouth joyful grin, (2) furious shouting with scrunched eyes and clenched fists, (3) frozen wide-eyed surprise, (4) narrowed eyes and tongue poking out in concentration, (5) sheepish embarrassed small smile, (6) wry knowing half-smile, full voluminous blond messy middle-part curtain hair with long wavy locks in flowing brush-stroke clumps, light blue t-shirt, hand-inked with a fine sable brush, lively fluid lines that swell and taper, calm delicate transparent watercolor, plain white background --ar 3:2 --sref <SREF> --oref <MILO_OREF> --ow 100 --v 7 --no quiff, pompadour, side-swept hair, hair swept up, hatching, cross-hatching, perfectly round ball-shaped head, dot eyes, stick-like hair, vector, realistic proportions, anime, text, letters, words, numbers, speech bubbles, captions, border, frame, panel lines
+expression sheet for a children's picture book character, the same 7-year-old boy shown six times, head and shoulders: (1) huge open-mouth joyful grin, (2) furious shouting with scrunched eyes and clenched fists, (3) frozen wide-eyed surprise, (4) narrowed eyes and tongue poking out in concentration, (5) sheepish embarrassed small smile, (6) wry knowing half-smile, large head on a small slim body, big expressive eyes with clear whites, full voluminous blond hair parted in the center with long wavy locks hanging down each side in flowing brush-stroke clumps, light blue t-shirt, hand-inked with a fine sable brush, lively fluid lines that swell and taper, soft, pale, muted, calm transparent watercolor, plain white background --ar 3:2 --sref <SREF> --sw 60 --oref <MILO_OREF> --ow 100 --v 7 --no quiff, pompadour, side-swept hair, hair swept up, hatching, cross-hatching, perfectly round ball-shaped head, dot eyes, stick-like hair, vector, realistic proportions, anime, text, letters, words, numbers, speech bubbles, captions, border, frame, panel lines
 ```
 
 | # | Expression | Used on |
