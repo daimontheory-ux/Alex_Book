@@ -24,7 +24,41 @@ Midjourney responds to *descriptions of features*. These are the phrases doing t
 
 **Avoid** "chibi" and "anime" (huge sparkly eyes, Japanese style) and "round head" (pulls toward a bald, ball-headed comic look).
 
-## Prompt A: kid in motion (recommended first try)
+## Round 1 results (2026-10-04)
+
+Daimon's review of the first three generations, saved here as reference inputs:
+
+| File | Keep | Reject |
+|---|---|---|
+| `ref_A_linework.png` | **Linework level and detail.** Light, economical, airy. | Ball-shaped head, dot eyes, stick-like hair, weak expression |
+| `ref_B_face.png` | **Facial style.** Big eyes with whites, expressive brows, open grin, rosy cheeks. | Line too heavy and busy; jacket detail; chunky body |
+| `ref_C_watercolor.png` | **Leaves and background.** Almost no outlines, all loose watercolor. | Busy plaid shirt; chunky body |
+
+**Strategy:** no single image has everything, so we **blend them as weighted style references** and use words to steer what references can't fix (head shape, hair, outfit). See Prompt C.
+
+## Prompt C: blended anchor (use this next)
+Upload all three `ref_*.png` files to Midjourney first. Then paste this, replacing `<A>`, `<B>`, `<C>` with each image's URL. To get a URL, open the image on the Midjourney site and use "Copy image address."
+
+```
+classic newspaper comic strip style children's picture book illustration of a joyful 7-year-old boy leaping over a pile of autumn leaves, large head on a small slim body with thin arms and legs, big expressive eyes with clear whites and black pupils, thick expressive eyebrows, small button nose, rosy cheeks, wide open-mouth grin, full voluminous blond hair parted in the middle with long wavy locks falling to each side of his face, hair drawn as a few bold flowing brush-stroke clumps, plain light blue t-shirt, blue jeans, blue sneakers, light economical hand-inked outlines on the boy only, the leaves and background painted in loose calm watercolor with almost no outlines, white paper showing through, mostly white background, lots of negative space --ar 1:1 --stylize 100 --sref <A>::2 <B>::1 <C>::1 --no text, letters, words, speech bubbles, captions, signature, border, frame, panel lines, hatching, cross-hatching, perfectly round ball-shaped head, dot eyes, stick-like hair, spiky hair, jacket, plaid, chubby body, anime, chibi, 3d, gradient background
+```
+
+### Reading the `--sref` weights
+`::2` means "twice as much influence." Start at **A = 2, B = 1, C = 1**, then adjust one at a time:
+
+| What you see | Change |
+|---|---|
+| Lines too heavy or busy | Raise **A** to 3 |
+| Face too simple; eyes small again | Raise **B** to 2 |
+| Leaves getting outlined | Raise **C** to 2 |
+| Body too chunky | Add "skinny, lanky little kid" to the prompt |
+| Hair spiky or stick-like | Add "soft rounded hair clumps, thick brush" to the prompt |
+
+**Why words *and* references:** the style references control *how things are drawn* (line, wash, face rendering). They don't reliably control *what is drawn* (head shape, hair style, outfit). That's what the words are for, which is why the prompt describes the hair and body so specifically.
+
+**If the web interface won't accept typed weights:** drag all three images into the **Style Reference** slot. They'll blend equally, and you control the balance with the words instead.
+
+## Prompt A: kid in motion (round 1, superseded by Prompt C)
 ```
 classic newspaper comic strip style children's picture book illustration of a joyful 7-year-old boy leaping through a pile of autumn leaves, large head with cartoon proportions about four heads tall, soft wide oval head with rounded cheeks, big expressive eyes with dark pupils, expressive eyebrows, big open-mouth grin, full voluminous blond hair drawn in flowing clumps of curved brush strokes with weight and movement, hand-inked with a fine sable brush, lively fluid lines that swell and taper, organic hand-drawn imperfection, calm delicate transparent watercolor washes, white paper showing through, mostly white background, scenery only suggested with a few strokes, soft warm autumn palette of red orange and mustard yellow, lots of negative space --ar 1:1 --stylize 125 --no text, letters, words, speech bubbles, captions, signature, border, frame, panel lines, hatching, cross-hatching, perfectly round ball-shaped head, bald head, dot eyes, spiky hair, stick-like hair, vector, thin uniform lines, anime, chibi, 3d, shading, gradient background
 ```
