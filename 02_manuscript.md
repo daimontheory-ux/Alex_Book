@@ -1,6 +1,6 @@
 # Manuscript: *The Happy Meter*
 
-**Status:** DRAFT v0.1, awaiting review
+**Status:** v0.1, APPROVED (Gate 3 closed 2026-10-04; pass notes accepted)
 **Gate:** 3 of 7. Text is final once approved. Source: `01_beat-sheet.md` v0.2 (Gate 2 approved).
 
 ## Lettering legend
