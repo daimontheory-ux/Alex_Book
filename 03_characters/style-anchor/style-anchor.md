@@ -84,9 +84,10 @@ Once one image nails the look, it becomes the style reference, and **every later
 ## Lock record
 | Field | Value |
 |---|---|
-| Chosen file | `STYLE_ANCHOR.png` |
-| Prompt used | |
-| Model version | |
-| Midjourney job URL | |
-| `--sref` URL | |
-| Approved by / date | |
+| Chosen file | `STYLE_ANCHOR.png` *(image pending upload)* |
+| Prompt used | Prompt C text (above), without the `--sref` chunk; refs A, B, C loaded via the Styles box, equal weight |
+| Exact prompt | classic newspaper comic strip style children's picture book illustration of a joyful 7-year-old boy leaping over a pile of autumn leaves, large head on a small slim body with thin arms and legs, big expressive eyes with clear whites and black pupils, thick expressive eyebrows, small button nose, rosy cheeks, wide open-mouth grin, full voluminous blond hair parted in the middle with long wavy locks falling to each side of his face, hair drawn as a few bold flowing brush-stroke clumps, plain light blue t-shirt, blue jeans, blue sneakers, light economical hand-inked outlines on the boy only, the leaves and background painted in loose calm watercolor with almost no outlines, white paper showing through, mostly white background, lots of negative space |
+| Model version | V8.2 (default) |
+| Upscale | Subtle |
+| Midjourney job URL | https://www.midjourney.com/jobs/fbb1c4b5-aa29-4ef2-897f-bdd7bce556e6?index=0 |
+| Approved by / date | Daimon, 2026-10-04 |
