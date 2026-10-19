@@ -1,28 +1,25 @@
 # Size Lineup
 
-Confirms relative heights so every page keeps the kids at a consistent scale.
+Confirms relative heights so every page keeps the characters at a consistent scale. Updated 2026-10-19 for the v1.0 cast.
 
-**Target:** Dad ≈ Mom (about 2× Milo) → Owen (10) tallest kid → Nia (tall 7) → Milo ≈ Noah (7). Boris at knee height.
+**Target:** Mom about 2× Milo → Milo = Noah → Boris (sitting) about Milo's knee-to-waist.
 
 ## Approach
-Midjourney won't reliably hold four referenced characters in one image. Build the lineup in **Canva** from the locked turnaround front views, scaling each figure:
+Build the lineup in **Canva** from the locked turnaround front views, scaling each figure:
 
-| Character | Relative height |
+| Character | Relative height (Milo = 100%) |
 |---|---|
-| Dad | ~170% (2× Milo) |
-| Mom | ~170% (2× Milo) |
-| Owen | 100% |
-| Nia | ~92% |
-| Milo | ~85% |
-| Noah | ~85% |
-| Boris (sitting) | ~25% |
+| Mom | ~200% |
+| Milo | 100% |
+| Noah | 100% |
+| Boris (sitting) | ~35% |
 
-All heights are relative to Owen (100%). Parents are 2× Milo (2 × 85% ≈ 170%). Draw a faint horizontal guideline at each head height. Save the result as `lineup_LOCKED.png`.
+Draw a faint horizontal guideline at each head height. Also mark each character's **glow position** (center of chest) and **glow diameter** (about one-third of torso width, bible §5.4) on this sheet, so the glow lands in the same place on every page. Save as `lineup_LOCKED.png`.
 
 ## Use in Gate 6
-When compositing page art in Canva, drop the lineup image onto a hidden layer and scale each figure to match it. This is the cheapest way to prevent "Nia shrank on page 17" errors.
+Drop the lineup onto a hidden layer when compositing each page and scale every figure to match it.
 
 ## Lock record
 | Asset | File | Approved |
 |---|---|---|
-| Lineup | `lineup_LOCKED.png` | ☐ |
+| Lineup (with glow marks) | `lineup_LOCKED.png` | ☐ |

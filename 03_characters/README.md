@@ -1,6 +1,6 @@
 # Gate 4: Character Reference Sheets
 
-**Status:** IN PROGRESS. Prompts drafted; awaiting generation.
+**Status:** IN PROGRESS. Repathed 2026-10-19 for story bible v1.0 (*Right Here With You*): cast is now **Milo, Noah, Boris, Mom**. Nia, Owen, Owen's cat and Dad are retired (`_retired/`).
 **Goal:** one locked set of reference images per character. Every page prompt in Gate 6 reuses these, so the characters look the same on page 1 and page 28.
 
 ---
@@ -17,8 +17,13 @@ Midjourney's current default model is **V8.2**. The two features that matter for
 
 **Rule of thumb:** generate **style anchor and character sheets in V8.2** for the best quality. Then generate **page art in V7 with `--oref` + `--sref`**, or with V8's Edit model if that holds the characters better. Midjourney changes often, so the first test generations will tell us which path wins.
 
-### The single biggest consistency trick: composite in Canva
-The art is **mostly white paper**, so you rarely need the AI to put three kids in one image. For multi-character pages (pp. 20, 25, etc.), generate **each character separately on white**, using that character's `--oref`. Then arrange them in Canva. Watercolor edges on white blend almost seamlessly. One character per generation is also where Omni Reference is most reliable.
+### The single biggest consistency trick: composite in Canva (now required)
+The art is **mostly white paper**, so you rarely need the AI to put two characters in one image. Generate **each character separately on white**, using that character's `--oref`, then arrange them in Canva. Watercolor edges on white blend almost seamlessly, and one character per generation is where Omni Reference is most reliable.
+
+In v1.0 this is **required**, not just preferred: fading and the glow (bible §5.4) are applied per character in Canva, so every character must be on its own layer. The only planned exception is the hug on p. 27 (bible §9 item 2).
+
+### Fading and glow are never generated
+Every character is generated at **full color**. Canva adds the fade steps (transparency + desaturation) and the glow layer. Every prompt therefore excludes `glow, glowing, light rays, transparency, ghost`. Background removal in Canva must be clean, because a faded figure shows any leftover white halo.
 
 ---
 
@@ -36,7 +41,7 @@ For each character file (`milo/milo.md` etc.):
 3. Save picks using the naming below. Fill in the **Lock record** at the bottom of the character file.
 
 ### Step 2: Size lineup
-Run the lineup prompt in `lineup/lineup.md` to confirm relative heights (Owen > Nia > Milo ≈ Noah). Composite it in Canva if needed.
+Build the lineup in `lineup/lineup.md` to confirm relative heights (Mom ≈ 2× Milo; Milo = Noah; Boris small). Composite it in Canva.
 
 ### Step 3: Review and lock
 Drop picks into the folder (or attach them in this chat). I'll review each against the checklist in its file, and you approve. Once a character is locked, **its reference images never change**.
@@ -57,10 +62,9 @@ Drop picks into the folder (or attach them in this chat). I'll review each again
 | Character | Turnaround | Expressions | Locked |
 |---|---|---|---|
 | Style anchor | — | — | ✅ |
-| Milo | ✅ | ☐ | ☐ |
+| Milo | ✅ | 🟡 sets 1–2 ✅; set 3 (poses) ☐ | ☐ |
 | Noah | ☐ | ☐ | ☐ |
-| Nia | ☐ | ☐ | ☐ |
-| Owen + B&W cat | ☐ | ☐ | ☐ |
 | Boris | ☐ | ☐ | ☐ |
-| Mom & Dad | ☐ | ☐ | ☐ |
+| Mom | ☐ | ☐ | ☐ |
+| ~~Nia, Owen + cat, Dad~~ | retired | | |
 | Size lineup | — | — | ☐ |

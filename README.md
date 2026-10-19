@@ -1,4 +1,4 @@
-# The Happy Meter (working title)
+# Right Here With You (working title)
 
 An in-family illustrated picture book (24–32 square pages, ages 5–7). Not for publication.
 
@@ -7,7 +7,7 @@ This repo is the single source of truth. Work moves through gated phases, and ea
 
 | Gate | File / folder | What it holds |
 |---|---|---|
-| 1 | `00_story-bible.md` | Characters, meter rules, arc, style guide, open decisions |
+| 1 | `00_story-bible.md` | Characters, fading and glow rules, arc, style guide, open decisions |
 | 2 | `01_beat-sheet.md` | Page-by-page plan |
 | 3 | `02_manuscript.md` | Final read-aloud text |
 | 4 | `03_characters/` | Locked character reference images and prompts |
@@ -17,6 +17,7 @@ This repo is the single source of truth. Work moves through gated phases, and ea
 
 ## Conventions
 - The story bible wins every conflict. Change it there first.
-- AI-generated art never includes text or the happy meter. Both are added in Canva.
+- AI-generated art never includes text, fading, or the glow. All are added in Canva.
+- The earlier *Happy Meter* version of the book is preserved in git tag `happy-meter-v0.7`.
 - Prompts describe the style. They never name a real artist.
 - Rejected image candidates stay out of the repo. Only picks are committed.

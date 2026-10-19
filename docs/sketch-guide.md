@@ -9,21 +9,21 @@ These pages are composition-critical: framing or placement *is* the storytelling
 
 | Page | Why it needs a sketch |
 |---|---|
-| 7 | First meter. Placement of Noah walking away vs. Milo; lots of white space |
-| 11 | Ghosted Boris overlapping present-moment Boris |
-| 18 | Puddle reflection: the meter appears only in the reflection |
-| 22–23 | Holding the NO; the bubble pushing up from his chest |
-| 26 | Piano-panel reflection (must mirror p. 18's framing) |
-| 27 | Nia and Milo on the bench, the mystery beat |
-| 28 | Bathroom mirror, final image |
+| 7 | GO AWAY: faint Milo plus a big shout bubble; balance the two |
+| 9 | Noah walking away vs. small, faint Milo; lots of white space |
+| 10 | Alone under the tree; the glow should be the focal point |
+| 14 | Milo looking back over his shoulder; Boris in the couch gap |
+| 15–17 | Same camera on the rug across three pages, so the color returning reads as time passing |
+| 20–22 | Noticing → GO— → breath: keep Milo in the same spot so only his face and color change |
+| 27–28 | The hug and the final dusk image with two glows |
 
 Single-character action pages (p. 1, 5, 12…) usually don't need one. The beat sheet's description is enough.
 
 ## How to draw them
 - One 8×8 square per page. Pencil or marker on paper; phone photo is fine.
 - **Heads as big circles** at roughly the right proportions (kids 3.5 heads tall, parents 2× Milo). Even a stick figure should carry the book's proportions.
-- **Box the text zone** (upper L or R) and **mark the meter zone** above heads with a dashed line.
-- Label figures with initials (M, N, Ni, O, B) and add arrows for gaze or motion.
+- **Box the text zone** (upper L or R) and **mark each glow position** (center of chest) with a small circle.
+- Label figures with initials (M, N, B, Mom) and add arrows for gaze or motion.
 - Keep it *crude*. Detail in a sketch is just more for Midjourney to copy.
 
 ## How each sketch is used (two routes, chosen per page)
