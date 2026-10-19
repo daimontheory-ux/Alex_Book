@@ -85,6 +85,8 @@ Locked faces from sets 1–2 that carry over, and where they're used now:
 The old "wry half-smile" and "holding the NO" faces are **no longer needed**.
 
 ## Prompt 3: Set 3, full-body poses (v1.0)
+> **To run these, use `milo_test_kit.md`.** It has every pose and close-up as a complete paste-ready prompt, in run order, with the pass checklist and the GIMP fade-and-glow test. The template below is the source the kit was built from.
+
 v1.0 needs Milo's **body** more than new faces: lying on the rug, hugging his knees, looking at his hands. Run **one pose per prompt** (proven most consistent), on white, at full color. Fading and the glow are added in GIMP.
 
 **Template** (V7 path: `milo_front_LOCKED.png` or the "Milo Standing Neutral" image in **Omni Reference**, `STYLE_ANCHOR.png` in **Styles**). Replace `[POSE]`:

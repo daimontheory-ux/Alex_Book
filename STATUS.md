@@ -21,7 +21,7 @@
 | Style anchor | ✅ `STYLE_ANCHOR.png` |
 | Milo turnaround (+ front, 3/4 crops) | ✅ (carries over) |
 | Milo expressions sets 1–2 | ✅ (carry over; remapped to v1.0 pages in `milo.md`) |
-| Milo set 3: full-body poses 3a–3j | ☐ **Next.** Start with the critical ones: 3d, 3g, 3h |
+| Milo test kit (`03_characters/milo/milo_test_kit.md`) | ☐ **Next.** Stage A (P-3d, P-3g, P-3h) → review → Stage B poses → Stage C close-ups → Stage D fade/glow test |
 | Boris turnaround + poses | ☐ Prompts ready (#2 peering is critical) |
 | Noah turnaround + poses | ☐ Prompts ready (#2 hurt, #4 sitting on ball are critical) |
 | Mom turnaround + poses + hug test | ☐ Prompts ready |
@@ -49,8 +49,8 @@ Resolved 2026-10-19: friend = **Noah**; Mom's line = refrain only; glow = always
 
 ## Next actions
 1. Daimon reviews bible, beat sheet and manuscript v1.1.
-2. Milo set 3 poses: 3d, 3g, 3h first (Prompt 3 in `milo.md`).
+2. **Milo test kit**, Stage A first: P-3d, P-3g, P-3h; bring picks back for review.
 3. Boris → Noah → Mom (turnaround, then poses), then the hug test.
-4. **GIMP fade/glow test** (`docs/gimp-workflow.md` §8): Milo at G0–G3 with the heart bloom at 25/35/45%; print and pick one strength.
+4. **Fade/glow test** = Milo test kit Stage D, as soon as P-3a and P-3d are locked.
 5. Size lineup with glow marks → close Gate 4.
 6. Gate 5: living room (piano, couch with dark gap, rug, lamp) and park (half-court, big tree).
