@@ -1,6 +1,6 @@
 # Manuscript: *Right Here With You*
 
-**Status:** v1.0 DRAFT, awaiting Daimon's approval (Gate 3 reopened 2026-10-19)
+**Status:** v1.1 DRAFT, awaiting Daimon's approval (Gate 3 reopened 2026-10-19)
 **Gate:** 3 of 7. Source: `01_beat-sheet.md` v1.0.
 
 ## Lettering legend
@@ -143,7 +143,7 @@
 2. **p. 10's "See? Everybody leaves."** is the only line that names the fear. It's in a thought bubble so it's Milo's private worry, not the narrator labeling him. Cut it if it feels too direct for Alex.
 3. **p. 13's "FINE! Stay there, then!"** mirrors his GO AWAY, so Milo does his own pattern to Boris before he understands it. Nobody points this out.
 4. **p. 25 Noah's "I know."** shows Noah understood all along that Milo didn't mean it, which quietly confirms the narrator's refrain from p. 9.
-5. **p. 27 Mom's line** is only the refrain. Alternate (bible §9 item 3): "Missing days, yelling days, every day. Right here with you."
+5. **p. 27 Mom's line** is the refrain only (confirmed 2026-10-19).
 
 ## Changelog
 - **v1.0 (2026-10-19):** new manuscript for bible v1.0. Old manuscript preserved on branch `archive/happy-meter-v0.7`.

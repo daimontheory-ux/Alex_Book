@@ -7,9 +7,9 @@
 ## Gate status
 | Gate | Deliverable | Status |
 |---|---|---|
-| 1 | Story bible (`00_story-bible.md`) | 🟡 v1.0 draft, awaiting approval (3 open items, §9) |
-| 2 | Beat sheet (`01_beat-sheet.md`) | 🟡 v1.0 draft, awaiting approval |
-| 3 | Manuscript (`02_manuscript.md`) | 🟡 v1.0 draft, awaiting approval |
+| 1 | Story bible (`00_story-bible.md`) | 🟡 v1.1 draft, awaiting approval (2 open items, §9) |
+| 2 | Beat sheet (`01_beat-sheet.md`) | 🟡 v1.1 draft, awaiting approval |
+| 3 | Manuscript (`02_manuscript.md`) | 🟡 v1.1 draft, awaiting approval |
 | 4 | Character references (`03_characters/`) | 🟡 In progress (repathed for v1.0) |
 | 5 | Setting references (`04_settings/`) | ☐ Not started |
 | 6 | Page art (`05_pages/`) | ☐ Not started |
@@ -37,14 +37,15 @@
 - Prompts describe the style. They never name a real artist.
 
 ## Open decisions (bible §9)
-1. Friend's name: **Noah** (current) or Diego.
-2. Hug image method for p. 27 (V8 Edit vs. composite): decide after a test.
-3. Mom's p. 27 line: refrain only (current) or the longer alternate.
+1. Hug image method for p. 27 (V8 Edit vs. composite): decide after a test. The hug is the book's peak.
+2. Glow strength (one fixed value for the whole book): set in the Canva test.
+
+Resolved 2026-10-19: friend = **Noah**; Mom's line = refrain only; glow = always-on round bloom around Milo's heart, others only when faded.
 
 ## Next actions
-1. Daimon reviews bible, beat sheet and manuscript v1.0 and resolves the three open decisions.
+1. Daimon reviews bible, beat sheet and manuscript v1.1.
 2. Milo set 3 poses: 3d, 3g, 3h first (Prompt 3 in `milo.md`).
 3. Boris → Noah → Mom (turnaround, then poses), then the hug test.
-4. **Canva fade/glow test** on one existing Milo image: try G0–G3 and the glow layer (bible §5.4) before page art, to confirm the look reads on paper.
+4. **Canva fade/glow test** on one existing Milo image: G0–G3 plus the heart bloom (bible §5.4). Pick the one glow strength that feels like warmth at G0 and still stands out at G3; print it to check on paper.
 5. Size lineup with glow marks → close Gate 4.
 6. Gate 5: living room (piano, couch with dark gap, rug, lamp) and park (half-court, big tree).

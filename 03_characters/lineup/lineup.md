@@ -14,7 +14,7 @@ Build the lineup in **Canva** from the locked turnaround front views, scaling ea
 | Noah | 100% |
 | Boris (sitting) | ~35% |
 
-Draw a faint horizontal guideline at each head height. Also mark each character's **glow position** (center of chest) and **glow diameter** (about one-third of torso width, bible §5.4) on this sheet, so the glow lands in the same place on every page. Save as `lineup_LOCKED.png`.
+Draw a faint horizontal guideline at each head height. Also mark each character's **glow center** (the heart, center of the chest) and **glow diameter** (about 1.5× chest width, bible §5.4) on this sheet, so the glow lands in the same place on every page. Save as `lineup_LOCKED.png`.
 
 ## Use in Gate 6
 Drop the lineup onto a hidden layer when compositing each page and scale every figure to match it.

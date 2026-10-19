@@ -1,6 +1,6 @@
 # Story Bible: *Right Here With You* (working title)
 
-**Status:** v1.0 DRAFT, awaiting Daimon's approval (Gate 1 reopened 2026-10-19 for the plot pivot)
+**Status:** v1.1 DRAFT, awaiting Daimon's approval (Gate 1 reopened 2026-10-19 for the plot pivot)
 **Owner / approver:** Daimon
 **Gate:** 1 of 7 (Story Bible). The beat sheet (`01_beat-sheet.md`) is built from this file.
 **Previous version:** *The Happy Meter* v0.7 is preserved in git on the branch `archive/happy-meter-v0.7`.
@@ -22,14 +22,14 @@ The book follows Dr. Becky Kennedy's *Good Inside* approach to **Deeply Feeling 
 | P1 | **Not about him.** Alex dislikes being copied or told what to do; DFKs also dislike feeling "seen" in vulnerable moments. | Daimon; Kennedy | Milo is "like him" (energy, hairstyle, expression), not "him." The fear is **shown in the art** (fading), never named in words. No one tells Milo what he's feeling. |
 | P2 | **No lectures.** | Daimon | No adult explains the lesson. Milo works it out from Boris. Mom's only line is the refrain, which Milo said first. |
 | P3 | **The outburst is fear, not defiance.** | Kennedy (DFKs) | "GO AWAY" is a protective strike under pressure. It is externalized: it "jumps out," and the narrator says plainly that it *wasn't what Milo meant*. |
-| P4 | **Good inside.** Behavior is the surface; the child is good underneath. | Kennedy | The **glow** (§5.3): constant, never earned, never lost, and most visible on Milo's worst moments. |
+| P4 | **Good inside.** Behavior is the surface; the child is good underneath. | Kennedy | Milo's **heart glow** (§5.3): visible on every page, never earned, never lost. It looks strongest on his hardest pages only because everything around it has faded. |
 | P5 | **Love is not conditional.** | Daimon; Kennedy | Missing a shot never dims the glow. Mom stays on the day Milo yelled. **Success is never what brings color back** (§5.2). |
 | P6 | **Sturdy presence.** Stay close, say little, don't leave. | Kennedy | Milo does it for Boris (Ep. 2); Noah does it for Milo (Ep. 3); Mom does it for Milo (PS). |
 | P7 | **Most generous interpretation.** | Kennedy | The hiss means "I'm scared," not "I hate you." Milo then applies the same reading to his own GO AWAY. |
 | P8 | **Notice it to handle it.** Naming a feeling as it builds lowers its power. | Dan Siegel ("name it to tame it") | Ep. 3's turning point is noticing his hands fading *before* the shout. Refrain payoff: "This time, Milo noticed." |
 | P9 | **Repair is always possible.** | Kennedy | Milo repairs with Noah; Mom repairs with a hug. Color always comes back, just slower than it goes. |
 | P10 | **Respect his intelligence.** | Daimon | Fading, color and glow follow consistent, discoverable rules (§5), like game mechanics. Details reward re-reading (the glow appears on every faded character). |
-| P11 | **Compassion is universal.** | Daimon | Everyone fades and everyone glows, including Boris and Noah. |
+| P11 | **Compassion is universal.** | Daimon | Everyone can fade, and when anyone fades their glow shows too (Noah, Boris). Fear and hurt don't make anyone less good. |
 
 ## 3. Characters
 
@@ -99,11 +99,12 @@ These rules are **never stated as a list in the book**. Readers work them out pa
 2. **Not success.** Making the shot or playing the note right never restores color. (This protects P5: worth isn't earned by performing.)
 3. **Color comes back slower than it goes.** (Refrain; and the art shows it: one step per page on the way back.)
 
-### 5.3 The glow
-1. **Every character has a small warm glow in the center of the chest.** It is the same size and brightness on every page, for everyone, always.
-2. **It's hidden by color.** When a character is in full color, their color covers the glow (it sits *behind* them, like a nightlight in a bright room). As they fade, the glow shows through. The fainter they are, the more you see it.
-3. **No one in the story ever mentions the glow.** It's for the reader to notice.
-4. **The one exception:** p. 28 is evening with the lamp low, so Milo's and Mom's glows show through even though they're in full color. (You notice a nightlight when the room gets dark.)
+### 5.3 The glow (a soft bloom around the heart)
+1. **Milo's glow is always visible.** A soft, round, warm bloom centered on his heart, spilling just past the outline of his chest. It is the same size and strength on every page, in every mood. Nothing he does makes it bigger or smaller.
+2. **Fading makes it *look* stronger, without changing it.** When Milo fades, the bloom stays the same while he pales around it, so it stands out more. Message: *it's always there, and you notice it most when things are hard.*
+3. **Other characters' glows appear when they fade** (Noah on pp. 8–9 and 19–21, Boris on pp. 11–16). At full color their glow isn't drawn. When it appears, it's the same bloom at the same strength as Milo's. Mom never fades, so hers is never shown.
+4. **No one in the story ever mentions the glow.** It's for the reader to notice.
+5. **It must never read as a halo or a superpower.** It's heart-centered, round, soft-edged, and modest. It never surrounds the whole body or the head.
 
 ### 5.4 Visual spec (applied in Canva)
 
@@ -117,10 +118,12 @@ These rules are **never stated as a list in the book**. Readers work them out pa
 | G3 | Nearly see-through (shout point) | 30% | −70 |
 
 **Glow.** One reusable Canva element, never edited:
-- Soft round radial gradient, warm golden yellow at the center fading to fully transparent at the edge; **no outline**.
-- **Diameter:** about one-third of the character's torso width (scale with the character; Boris's sits mid-chest behind his front legs).
-- **Layer order:** glow layer **directly below** the character's figure layer, centered on the chest. The figure's transparency reveals it automatically, so no per-page glow adjustment is ever needed.
-- **p. 28 exception:** lay a soft dusk tint over the whole page, then move the two glow layers **above** the figures at 60% transparency.
+- **Shape:** round, soft radial gradient: warm golden yellow at the center fading smoothly to fully transparent at the edge. No outline, no heart shape, no rays.
+- **Size:** about **1.5× the character's chest width**, so it spills a little past the body outline on each side. Scale it with the character (Boris's is centered mid-chest behind his front legs).
+- **Position:** centered on the heart (center of the chest, a touch left of the figure's midline).
+- **Layer order:** **above** the character's figure layer, so the fade never dims it.
+- **Strength:** one fixed transparency for the whole book, set during the Canva test (start around 35%). Light enough to feel like warmth on a full-color Milo, never like a spotlight.
+- **Who gets it:** Milo on **every page**. Noah and Boris **only on pages where they are at G1–G3** (see the beat sheet's fade map). Mom never.
 
 **Fading over scenery.** Because a faded figure is transparent, the background shows through it (e.g. the blacktop through Milo's legs). This is intended; it's what reads as "ghosting." Keep scenery behind faded figures light and simple so the figure stays readable.
 
@@ -131,10 +134,10 @@ Target: **28 interior pages** (+ cover, dedication). About 200 printed words; th
 | Part | Pages | Day | Beat |
 |---|---|---|---|
 | Setup | 1–3 | 1 | Meet Milo, his song, and the first small fade |
-| Ep. 1: **Fade** (basketball) | 4–10 | 1 | Misses + "My turn!" → G3 → GO AWAY → Noah fades and leaves → Milo alone, glow visible |
+| Ep. 1: **Fade** (basketball) | 4–10 | 1 | Misses + "My turn!" → G3 → GO AWAY → Noah fades and leaves → Milo alone, his glow the brightest thing on the page |
 | Ep. 2: **Mirror** (Boris) | 11–18 | 2 | Vacuum → Boris fades, hides, hisses → Milo almost leaves → "I'm right here with you" → Boris's color returns → *was I hissing?* |
 | Ep. 3: **Notice** (basketball) | 19–25 | 3 | Miss → hands fading → *this time, Milo noticed* → breath → "Stay close" → miss again, color holds → "...Again?" → repair with Noah |
-| PS: **Stay** (piano) | 26–28 | 3 | Mom sits silently → Milo confesses → hug + "Right here with you" → dusk, two glows |
+| PS: **Stay** (piano) | 26–28 | 3 | Mom sits silently → Milo confesses → hug + "Right here with you" → dusk, Mom's arm still around him |
 
 ### Setup (pp. 1–3)
 - Milo plays his song at the piano, Boris on top. Full color. He loves getting it right.
@@ -146,7 +149,7 @@ Target: **28 interior pages** (+ cover, dedication). About 200 printed words; th
 - At G3: **"GO AWAY!"**
 - Noah's face falls. He fades to G2, says a small "...okay," and walks away with his ball.
 - *"GO AWAY jumped out. But that wasn't what Milo meant."*
-- Milo sits under the tree, alone, at G3. His glow is clearly visible for the first time. Thought: *"See? Everybody leaves."* (His fear came true because of the shout.)
+- Milo sits under the tree, alone, at G3. Everything about him has gone pale except his glow, which is now the warmest thing on the page. Thought: *"See? Everybody leaves."* (His fear came true because of the shout.)
 
 ### Episode 2: Mirror (pp. 11–18)
 - VRRRMMM: Mom vacuums. Boris puffs up, fades, and dives under the couch.
@@ -168,8 +171,8 @@ Target: **28 interior pages** (+ cover, dedication). About 200 printed words; th
 
 ### PS: Stay (pp. 26–28)
 - That evening, Milo plays his song. Mom sits on the bench beside him. She doesn't say anything. She just stays.
-- Milo, quietly: "Mom? I yelled GO AWAY at Noah." Mom hugs him: **"Right here with you."**
-- Final page, dusk, no words: Milo playing, Mom's cheek resting on his head, Boris curled on the piano. Both glows visible in the low light.
+- Milo, quietly: "Mom? I yelled GO AWAY at Noah." Mom pulls him into a full two-armed hug, and Milo hugs her back: **"Right here with you."** This page is the book's physical and emotional peak (Alex loves hugs, so the hug must feel real, not symbolic).
+- Final page, dusk, no words: Milo playing, Mom's arm still around him and her cheek resting on his head, Boris curled on the piano. In the low light, Milo's glow is the brightest thing in the room.
 
 ### Refrains (the repeated lines that carry the theme)
 1. *"GO AWAY jumped out. But that wasn't what Milo meant."* (Ep. 1, p. 9; echoed in Milo's thought on p. 18) → *"This time, Milo noticed."* (Ep. 3, p. 20)
@@ -188,7 +191,7 @@ Target: **28 interior pages** (+ cover, dedication). About 200 printed words; th
 - **Every character is generated on white as a separate image** and composited in Canva. This is required (not just preferred) now, because fading and the glow need each figure on its own layer.
 - Consistent scale: Mom ≈ 2× Milo; Noah = Milo; Boris sitting ≈ Milo's knee-to-waist.
 - Backgrounds stay sparse: 1–3 setting props per page. White wins.
-- Emotional peaks (p. 10 alone under the tree, p. 15 on the rug, p. 20 noticing, p. 28) get **more white space**, not more detail.
+- Emotional peaks (p. 10 alone under the tree, p. 15 on the rug, p. 20 noticing, **p. 27 the hug**, p. 28) get **more white space**, not more detail. p. 27 gets the most white space in the book.
 
 ### 7.3 Palette
 - **Milo:** golden blond hair; light-blue tee, blue jeans, blue sneakers.
@@ -196,7 +199,7 @@ Target: **28 interior pages** (+ cover, dedication). About 200 printed words; th
 - **Mom:** purple sweater set, black capris, brown hair.
 - **Boris:** silver blue-grey with green eyes.
 - **Settings:** autumn reds, oranges and yellows as soft washes; neutral warm whites.
-- **Glow:** warm golden yellow, the only soft-edged light source in the book. Keep autumn-leaf yellows away from chests so the two never compete.
+- **Glow:** warm golden yellow, the only soft-edged light in the book. Keep autumn-leaf yellows away from the chest area so the two never compete.
 
 ### 7.4 Lettering
 - A hand-lettered comic font for dialogue; a clean, readable font for narration. Final choice in Canva.
@@ -217,10 +220,12 @@ Target: **28 interior pages** (+ cover, dedication). About 200 printed words; th
 
 ## 9. Open items
 
-1. **[OPEN] Friend's name.** The v0.6 bible renamed Diego to **Noah** (to keep the book further from real life), but Diego came back into our recent discussion. This draft keeps **Noah**. Confirm, or say "Diego" and every file will be switched.
-2. **[OPEN] The hug image (p. 27).** It needs Milo and Mom touching, which Omni Reference can't do in one generation. Plan: try V8's Edit model with both front views as references; fallback is a composite with Mom's arms painted to overlap Milo. Decide after a test.
-3. **[OPEN] Mom's line length.** Draft uses only the refrain, "Right here with you." Alternate if you want the unconditional point stated: "Missing days, yelling days, every day. Right here with you." (Daimon may trim later.)
+**Resolved in v1.1 (2026-10-19):** friend's name stays **Noah**; Mom's p. 27 line is the refrain only, "Right here with you"; glow model is the always-on heart bloom for Milo, shown on others only when they fade.
+
+1. **[OPEN] Hug image method (p. 27).** The hug is the book's peak and must look real: a full two-armed embrace with Milo hugging back. Omni Reference can't hold two characters, so test V8's Edit model with both front views first; fallback is a Canva composite (`03_characters/parents/parents.md`, Hug test). Decide after the test.
+2. **[OPEN] Glow strength.** Set the single transparency value during the Canva fade/glow test (STATUS next action 4).
 
 ## Changelog
+- **v1.1 (2026-10-19):** glow changed from a hidden glow (seen only when fading) to an **always-visible round bloom around Milo's heart**, so goodness doesn't read as appearing only in hard times; others' glows show only when they fade; Mom's glow never shown; p. 28 exception removed. Hug on p. 27 made a full two-armed, reciprocal embrace that carries into p. 28. Resolved: Noah; Mom's line = refrain only.
 - **v1.0 (2026-10-19):** plot pivot to Dr. Becky Kennedy's Deeply Feeling Kids approach. Title → *Right Here With You*. Happy Meter, Plot Twist, Nia, Owen, Owen's cat and Dad removed. New mechanics: fading (overwhelm/fear), color return (connection, not success), constant glow (good inside). New structure: Setup + 3 episodes (Fade, Mirror, Notice) + PS (Stay). Triggers are performance failure and being hurried. Refrain "Right here with you" shared by Milo (to Boris) and Mom (to Milo). Kept: Milo, Noah, Boris and Mom designs, style anchor, 8×8 format, gates. Old version on branch `archive/happy-meter-v0.7`.
 - **v0.7 and earlier (2026-10-04):** *The Happy Meter*. See branch `archive/happy-meter-v0.7` for full history.

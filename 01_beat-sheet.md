@@ -1,6 +1,6 @@
 # Beat Sheet: *Right Here With You*
 
-**Status:** v1.0 DRAFT, awaiting Daimon's approval (Gate 2 reopened 2026-10-19)
+**Status:** v1.1 DRAFT, awaiting Daimon's approval (Gate 2 reopened 2026-10-19)
 **Gate:** 2 of 7. Built from `00_story-bible.md` v1.0. The bible wins any conflict.
 
 ## How to read this file
@@ -8,7 +8,7 @@
 - **Text** is draft wording; the polished version is in `02_manuscript.md`.
 - **Text side** = where the text block sits in the upper half (L or R). The art must leave that corner open.
 - **Fade** lists each character's step on that page (bible §5.4): G0 full color → G3 nearly see-through. `G1→G2` means it changes during the page; Canva shows the end state. A dash means the character isn't on the page.
-- **Glow visible?** follows automatically from the fade (hidden at G0, faint at G1, clear at G2–G3). p. 28 is the one exception.
+- **Glow** (bible §5.3): Milo's heart bloom is on **every page** at the same strength. Noah's and Boris's appear **only on pages where they're at G1–G3**. Mom's is never shown.
 - **Art refs** name the character reference to composite (files in `03_characters/`).
 
 ---
@@ -21,7 +21,7 @@
 | Ep. 1: Fade | 4–10 | Misses + hurry → GO AWAY → Noah leaves → alone | 7 |
 | Ep. 2: Mirror | 11–18 | Vacuum → Boris hides and hisses → "I'm right here with you" → *was I hissing?* | 8 |
 | Ep. 3: Notice | 19–25 | Miss → noticing → breath → stay → miss again, okay → repair | 7 |
-| PS: Stay | 26–28 | Mom sits → confession → hug + refrain → dusk glows | 3 |
+| PS: Stay | 26–28 | Mom sits → confession → hug + refrain → dusk, still held | 3 |
 
 ## Fade map (the visual through-line)
 
@@ -32,7 +32,7 @@
 | **Boris** | G0 | G0 | G0 | | | | | | | | G1 | G2 | G3 | G3 | G3 | G2 | G1→G0 | G0 | | | | | | | | | | G0* |
 | **Mom** | | | | | | | | | | | G0 | | | | | | | | | | | | | | | G0 | G0 | G0* |
 
-\* p. 28: dusk tint; glows shown above the figures (bible §5.3 rule 4).
+\* p. 28: dusk tint over the page; nothing else changes. Milo's glow simply reads brightest in the low light.
 
 Note how the curve reads: Milo drops one step per setback (pp. 5–7), and the shout comes only at G3. On the way back, color returns one step at a time (Boris pp. 16–18; Milo pp. 21–23).
 
@@ -89,7 +89,7 @@ Note how the curve reads: Milo drops one step per setback (pp. 5–7), and the s
 
 ### Page 7: GO AWAY
 - **Setting:** close on Milo, fists clenched, eyes scrunched, the jagged bubble bursting out of him. Noah at the edge of the frame.
-- **Fade:** Milo **G3** (nearly see-through; the glow shows through his chest). Noah G0.
+- **Fade:** Milo **G3** (nearly see-through; his heart glow, unchanged, now stands out against the pale figure). Noah G0.
 - **Text side:** L (the shout bubble fills the right half)
 - **Text:** Noah: *Come ON, Milo!* Milo (SHOUT): **GO AWAY!**
 - **Art note:** the most important pairing in the book: **the fade comes first, the shout second.** The reader sees the faint boy behind the loud word.
@@ -137,7 +137,7 @@ Note how the curve reads: Milo drops one step per setback (pp. 5–7), and the s
 
 ### Page 13: HISSS!
 - **Setting:** Milo on his knees, arm under the couch. A paw flashes out. Milo jerking back, holding his hand.
-- **Fade:** Milo **G2**, Boris **G3** (only his eyes and paw visible, plus a glimmer of glow in the dark gap).
+- **Fade:** Milo **G2**, Boris **G3** (only his eyes and paw visible, his glow showing in the dark gap).
 - **Text side:** L
 - **Text:** SFX: **HISSSS! SWAT!** Milo: *FINE! Stay there, then!*
 - **Art note:** Milo is doing his own pattern without knowing it. Don't point it out.
@@ -250,19 +250,19 @@ Note how the curve reads: Milo drops one step per setback (pp. 5–7), and the s
 - **Art refs:** Milo at piano (set 3); Mom on bench (Mom poses #2); Boris sitting.
 
 ### Page 27: Right here with you
-- **Setting:** Milo has stopped playing. Mom's arms around him, his face against her sweater.
-- **Fade:** all G0.
+- **Setting:** Milo has stopped playing. Mom has turned on the bench and wrapped **both arms** around him; Milo has his arms around her too, face pressed into her sweater, eyes closed. Close framing on the two of them, then **the most white space of any page in the book**.
+- **Fade:** both G0. Milo's glow as always.
 - **Text side:** R
 - **Text:** Milo (small): *Mom? I yelled GO AWAY at Noah.* Mom (small): *Right here with you.*
-- **Art note:** **Refrain 3 payoff.** Same bubble style as p. 15. Mom's line answers the confession with presence, not a lesson. (Alternate line: bible §9 item 3.)
-- **Art refs:** Mom hugging Milo (Mom poses #3; see bible §9 item 2).
+- **Art note:** **Refrain 3 payoff**, and the book's physical and emotional peak. The hug must look real and reciprocal (he's holding on, not just being held), because this is where "love isn't conditional" is felt, not told. Same bubble style as p. 15. Mom's face is calm and warm, never sad or concerned.
+- **Art refs:** Mom and Milo hug (Mom poses #3; hug test in `parents.md`; bible §9 item 1).
 
-### Page 28: Two glows
-- **Setting:** dusk; the lamp low. Milo playing again, Mom's cheek resting on top of his head, eyes closed. Boris curled on the piano. A few leaves outside the dark window.
-- **Fade:** all G0, with dusk tint; **Milo's and Mom's glows shown above the figures** (the one exception).
+### Page 28: Still here
+- **Setting:** dusk; the lamp low. Milo playing again, Mom beside him with **one arm still around his shoulders** and her cheek resting on top of his head, eyes closed. Boris curled on the piano. A few leaves outside the dark window.
+- **Fade:** all G0, with a soft dusk tint over the page.
 - **Text side:** — (no text). Optional SFX: *plink plink plunk* (echoing p. 1).
-- **Art note:** the reader finally sees the glow on a happy page, and sees that Mom has one too.
-- **Art refs:** Milo at piano; Mom leaning (Mom poses #4); Boris curled.
+- **Art note:** the hug hasn't ended; it's become the way they sit. In the low light, Milo's glow is the brightest thing in the room. Same glow as on p. 1; only the light around it changed.
+- **Art refs:** Milo at piano; Mom leaning with arm around him (Mom poses #4); Boris curled.
 
 ---
 
@@ -273,4 +273,5 @@ Note how the curve reads: Milo drops one step per setback (pp. 5–7), and the s
 - Wordless pages (23, 28): give the child time to look. If he points at the glow, let him say what he thinks it is.
 
 ## Changelog
+- **v1.1 (2026-10-19):** glow notes updated to bible v1.1 (Milo's heart bloom on every page; others only when faded; no p. 28 exception); p. 27 hug made a full, reciprocal embrace with maximum white space; p. 28 retitled "Still here" with Mom's arm still around him.
 - **v1.0 (2026-10-19):** full rewrite for bible v1.0 (*Right Here With You*). Old beat sheet preserved on branch `archive/happy-meter-v0.7`.
