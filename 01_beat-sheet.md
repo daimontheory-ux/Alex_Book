@@ -273,4 +273,4 @@ Note how the curve reads: Milo drops one step per setback (pp. 5–7), and the s
 - Wordless pages (23, 28): give the child time to look. If he points at the glow, let him say what he thinks it is.
 
 ## Changelog
-- **v1.0 (2026-10-19):** full rewrite for bible v1.0 (*Right Here With You*). Old beat sheet preserved in tag `happy-meter-v0.7`.
+- **v1.0 (2026-10-19):** full rewrite for bible v1.0 (*Right Here With You*). Old beat sheet preserved on branch `archive/happy-meter-v0.7`.

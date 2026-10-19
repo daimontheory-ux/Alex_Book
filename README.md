@@ -18,6 +18,6 @@ This repo is the single source of truth. Work moves through gated phases, and ea
 ## Conventions
 - The story bible wins every conflict. Change it there first.
 - AI-generated art never includes text, fading, or the glow. All are added in Canva.
-- The earlier *Happy Meter* version of the book is preserved in git tag `happy-meter-v0.7`.
+- The earlier *Happy Meter* version of the book is preserved in git branch `archive/happy-meter-v0.7`.
 - Prompts describe the style. They never name a real artist.
 - Rejected image candidates stay out of the repo. Only picks are committed.

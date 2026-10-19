@@ -2,7 +2,7 @@
 
 **Read this first at the start of every working session.** Last updated 2026-10-19.
 
-> **2026-10-19 pivot:** the plot moved from *The Happy Meter* to a Dr. Becky Kennedy "Deeply Feeling Kids" story. The old book is preserved in git tag `happy-meter-v0.7`. Gates 1–3 are reopened as v1.0 drafts.
+> **2026-10-19 pivot:** the plot moved from *The Happy Meter* to a Dr. Becky Kennedy "Deeply Feeling Kids" story. The old book is preserved in git branch `archive/happy-meter-v0.7`. Gates 1–3 are reopened as v1.0 drafts.
 
 ## Gate status
 | Gate | Deliverable | Status |

@@ -3,7 +3,7 @@
 **Status:** v1.0 DRAFT, awaiting Daimon's approval (Gate 1 reopened 2026-10-19 for the plot pivot)
 **Owner / approver:** Daimon
 **Gate:** 1 of 7 (Story Bible). The beat sheet (`01_beat-sheet.md`) is built from this file.
-**Previous version:** *The Happy Meter* v0.7 is preserved in git under the tag `happy-meter-v0.7`.
+**Previous version:** *The Happy Meter* v0.7 is preserved in git on the branch `archive/happy-meter-v0.7`.
 
 > Rules for this file: it is the single source of truth. If a later file (beat sheet, prompts, layout) disagrees with this file, this file wins until it is changed here first. Open items are marked **[OPEN]** and listed in §9.
 
@@ -222,5 +222,5 @@ Target: **28 interior pages** (+ cover, dedication). About 200 printed words; th
 3. **[OPEN] Mom's line length.** Draft uses only the refrain, "Right here with you." Alternate if you want the unconditional point stated: "Missing days, yelling days, every day. Right here with you." (Daimon may trim later.)
 
 ## Changelog
-- **v1.0 (2026-10-19):** plot pivot to Dr. Becky Kennedy's Deeply Feeling Kids approach. Title → *Right Here With You*. Happy Meter, Plot Twist, Nia, Owen, Owen's cat and Dad removed. New mechanics: fading (overwhelm/fear), color return (connection, not success), constant glow (good inside). New structure: Setup + 3 episodes (Fade, Mirror, Notice) + PS (Stay). Triggers are performance failure and being hurried. Refrain "Right here with you" shared by Milo (to Boris) and Mom (to Milo). Kept: Milo, Noah, Boris and Mom designs, style anchor, 8×8 format, gates. Old version tagged `happy-meter-v0.7`.
-- **v0.7 and earlier (2026-10-04):** *The Happy Meter*. See the tag for full history.
+- **v1.0 (2026-10-19):** plot pivot to Dr. Becky Kennedy's Deeply Feeling Kids approach. Title → *Right Here With You*. Happy Meter, Plot Twist, Nia, Owen, Owen's cat and Dad removed. New mechanics: fading (overwhelm/fear), color return (connection, not success), constant glow (good inside). New structure: Setup + 3 episodes (Fade, Mirror, Notice) + PS (Stay). Triggers are performance failure and being hurried. Refrain "Right here with you" shared by Milo (to Boris) and Mom (to Milo). Kept: Milo, Noah, Boris and Mom designs, style anchor, 8×8 format, gates. Old version on branch `archive/happy-meter-v0.7`.
+- **v0.7 and earlier (2026-10-04):** *The Happy Meter*. See branch `archive/happy-meter-v0.7` for full history.

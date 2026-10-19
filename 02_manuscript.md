@@ -146,4 +146,4 @@
 5. **p. 27 Mom's line** is only the refrain. Alternate (bible §9 item 3): "Missing days, yelling days, every day. Right here with you."
 
 ## Changelog
-- **v1.0 (2026-10-19):** new manuscript for bible v1.0. Old manuscript preserved in tag `happy-meter-v0.7`.
+- **v1.0 (2026-10-19):** new manuscript for bible v1.0. Old manuscript preserved on branch `archive/happy-meter-v0.7`.
