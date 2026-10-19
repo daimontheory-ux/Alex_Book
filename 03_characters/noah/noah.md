@@ -1,6 +1,6 @@
 # Noah: Character Reference
 
-**Source of truth:** story bible §3.3 (v1.0). **[OPEN: name, Noah or Diego, bible §9 item 1. The design is the same either way.]**
+**Source of truth:** story bible §3.3 (v1.0). Name confirmed 2026-10-19.
 
 In v1.0 Noah has two jobs: in Episode 1 he's the ordinary, eager kid whose "My turn!" adds pressure, then the friend who goes quiet and fades; in Episode 3 he's the **sturdy friend** who sits and waits.
 
