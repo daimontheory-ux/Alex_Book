@@ -27,8 +27,8 @@ Single-character action pages (p. 1, 5, 12…) usually don't need one. The beat 
 - Keep it *crude*. Detail in a sketch is just more for Midjourney to copy.
 
 ## How each sketch is used (two routes, chosen per page)
-1. **Canva route (default, zero drift):** the sketch is the **layout plan**. Characters are generated separately on white with their references, then placed in Canva to match the sketch. Midjourney never sees the sketch.
-2. **Image Prompt route (only for single-image scenes such as the puddle or mirror):** add the sketch photo in the **Image Prompt** slot with a **low image weight, `--iw 0.25` to `0.5`**. At that weight it guides layout and camera angle while the style and character references still control how everything looks. If stick-figure qualities start appearing (thin limbs, flat shading), lower `--iw` or switch to the Canva route.
+1. **GIMP route (default, zero drift):** the sketch is the **layout plan**. Characters are generated separately on white with their references, then placed in GIMP to match the sketch. Midjourney never sees the sketch.
+2. **Image Prompt route (only for single-image scenes such as the puddle or mirror):** add the sketch photo in the **Image Prompt** slot with a **low image weight, `--iw 0.25` to `0.5`**. At that weight it guides layout and camera angle while the style and character references still control how everything looks. If stick-figure qualities start appearing (thin limbs, flat shading), lower `--iw` or switch to the GIMP route.
 
 ## Workflow
-Photograph the sketches and attach them in chat (or commit them to `05_pages/sketches/page_NN.jpg`). Claude turns each one into that page's prompt, its route (Canva or Image Prompt), and a Canva layout note in `05_pages/page_NN.md`.
+Photograph the sketches and attach them in chat (or commit them to `05_pages/sketches/page_NN.jpg`). Claude turns each one into that page's prompt, its route (GIMP or Image Prompt), and a GIMP layout note in `05_pages/page_NN.md`.

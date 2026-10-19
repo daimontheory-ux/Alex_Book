@@ -7,7 +7,7 @@
 - **28 interior pages**, each an 8×8 in frame. Front matter (cover, title page, dedication) is separate and not counted.
 - **Text** is draft wording; the polished version is in `02_manuscript.md`.
 - **Text side** = where the text block sits in the upper half (L or R). The art must leave that corner open.
-- **Fade** lists each character's step on that page (bible §5.4): G0 full color → G3 nearly see-through. `G1→G2` means it changes during the page; Canva shows the end state. A dash means the character isn't on the page.
+- **Fade** lists each character's step on that page (bible §5.4): G0 full color → G3 nearly see-through. `G1→G2` means it changes during the page; GIMP shows the end state. A dash means the character isn't on the page.
 - **Glow** (bible §5.3): Milo's heart bloom is on **every page** at the same strength. Noah's and Boris's appear **only on pages where they're at G1–G3**. Mom's is never shown.
 - **Art refs** name the character reference to composite (files in `03_characters/`).
 

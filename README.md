@@ -13,11 +13,13 @@ This repo is the single source of truth. Work moves through gated phases, and ea
 | 4 | `03_characters/` | Locked character reference images and prompts |
 | 5 | `04_settings/` | Locked setting reference images and prompts |
 | 6 | `05_pages/` | `page_NN.md` (prompt, candidates, pick) + chosen images |
-| 7 | `build/` | Canva exports, proof PDFs |
+| 7 | `build/` | Page guide overlay, exported page PNGs, `make_pdf.py`, proof PDFs |
+
+**How-to guides:** `docs/gimp-workflow.md` (page assembly), `docs/midjourney-guide.md`, `docs/sketch-guide.md`.
 
 ## Conventions
 - The story bible wins every conflict. Change it there first.
-- AI-generated art never includes text, fading, or the glow. All are added in Canva.
+- AI-generated art never includes text, fading, or the glow. All are added in GIMP.
 - The earlier *Happy Meter* version of the book is preserved in git branch `archive/happy-meter-v0.7`.
 - Prompts describe the style. They never name a real artist.
 - Rejected image candidates stay out of the repo. Only picks are committed.

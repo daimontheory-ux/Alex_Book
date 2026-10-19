@@ -30,7 +30,7 @@ full body, the same sleek Russian Blue cat, [POSE], silver blue-grey coat, brigh
 
 **Watch-outs:**
 - **#3 (the swat) must read as scared, not vicious.** Keep it small and defensive. If it looks attacking, add `frightened` at the front.
-- **#2** is the book's key image of fear. The dark couch gap is a Canva layer from the setting reference; Boris is composited into it.
+- **#2** is the book's key image of fear. The dark couch gap is a GIMP layer from the setting reference; Boris is composited into it.
 
 ## Acceptance checklist
 - ☐ Unmistakably a **Russian Blue**: silver-blue (not grey-brown), **green** eyes, sleek build.

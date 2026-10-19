@@ -87,7 +87,7 @@ Our prompt files contain placeholders like `--sref <SREF>` and `--oref <MILO_ORE
 
 | Problem | Fix |
 |---|---|
-| Random letters or gibberish text appear | Already in our `--no` list. If it persists, add `--raw` and reroll; small stray marks can be erased in Canva. |
+| Random letters or gibberish text appear | Already in our `--no` list. If it persists, add `--raw` and reroll; small stray marks can be erased in GIMP. |
 | Too much background, not enough white | Add "vignette fading to white paper, unpainted edges" |
 | Character looks too old or young | Add "small child", or the age, earlier in the prompt |
 | Three views of the character look like different kids | Normal for turnarounds. Pick the best single view and use it as the reference, then regenerate the others from it. |

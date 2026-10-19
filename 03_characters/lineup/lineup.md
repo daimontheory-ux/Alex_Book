@@ -5,7 +5,7 @@ Confirms relative heights so every page keeps the characters at a consistent sca
 **Target:** Mom about 2× Milo → Milo = Noah → Boris (sitting) about Milo's knee-to-waist.
 
 ## Approach
-Build the lineup in **Canva** from the locked turnaround front views, scaling each figure:
+Build the lineup in **GIMP** from the locked turnaround front views, scaling each figure:
 
 | Character | Relative height (Milo = 100%) |
 |---|---|

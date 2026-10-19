@@ -46,7 +46,7 @@ The anchor's boy has the right face and proportions, but his hair is a **swept-u
 | 5 | Wince / alarmed yell | not needed; reads as pain or fear |
 
 **Missing:** concentrating (tongue out), sheepish, wry half-smile, and "holding the NO." These come in set 2.
-**Drift to watch:** the hair went **ginger/orange and spikier** than the turnaround's golden blond; **blue irises** appeared (the turnaround has black pupils); and skin is warmer. Two small fake "signatures" also appeared (bottom left, mid right). Erase them in Canva.
+**Drift to watch:** the hair went **ginger/orange and spikier** than the turnaround's golden blond; **blue irises** appeared (the turnaround has black pupils); and skin is warmer. Two small fake "signatures" also appeared (bottom left, mid right). Erase them in GIMP.
 
 ## Prompt 2b: Expressions set 2 (the missing faces)
 ```
@@ -85,7 +85,7 @@ Locked faces from sets 1–2 that carry over, and where they're used now:
 The old "wry half-smile" and "holding the NO" faces are **no longer needed**.
 
 ## Prompt 3: Set 3, full-body poses (v1.0)
-v1.0 needs Milo's **body** more than new faces: lying on the rug, hugging his knees, looking at his hands. Run **one pose per prompt** (proven most consistent), on white, at full color. Fading and the glow are added in Canva.
+v1.0 needs Milo's **body** more than new faces: lying on the rug, hugging his knees, looking at his hands. Run **one pose per prompt** (proven most consistent), on white, at full color. Fading and the glow are added in GIMP.
 
 **Template** (V7 path: `milo_front_LOCKED.png` or the "Milo Standing Neutral" image in **Omni Reference**, `STYLE_ANCHOR.png` in **Styles**). Replace `[POSE]`:
 ```
