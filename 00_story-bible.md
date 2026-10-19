@@ -40,7 +40,7 @@ Cast reduced to four in v1.0. **Retired:** Nia, Owen, Owen's black-and-white cat
 | Role | Name |
 |---|---|
 | Protagonist | **Milo** |
-| Friend (basketball) | **Noah** **[OPEN, §9: Noah or Diego]** |
+| Friend (basketball) | **Noah** |
 | Family cat (Russian Blue) | **Boris** |
 | Parent | **Mom** (never named) |
 
