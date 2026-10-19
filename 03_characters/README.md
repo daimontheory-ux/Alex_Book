@@ -20,7 +20,7 @@ Midjourney's current default model is **V8.2**. The two features that matter for
 ### The single biggest consistency trick: composite in Canva (now required)
 The art is **mostly white paper**, so you rarely need the AI to put two characters in one image. Generate **each character separately on white**, using that character's `--oref`, then arrange them in Canva. Watercolor edges on white blend almost seamlessly, and one character per generation is where Omni Reference is most reliable.
 
-In v1.0 this is **required**, not just preferred: fading and the glow (bible §5.4) are applied per character in Canva, so every character must be on its own layer. The only planned exception is the hug on p. 27 (bible §9 item 2).
+In v1.0 this is **required**, not just preferred: fading and the glow (bible §5.4) are applied per character in Canva, so every character must be on its own layer. The only planned exception is the hug on p. 27 (bible §9 item 1).
 
 ### Fading and glow are never generated
 Every character is generated at **full color**. Canva adds the fade steps (transparency + desaturation) and the glow layer. Every prompt therefore excludes `glow, glowing, light rays, transparency, ghost`. Background removal in Canva must be clean, because a faded figure shows any leftover white halo.

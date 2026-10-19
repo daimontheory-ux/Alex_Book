@@ -44,7 +44,7 @@ full body, the same lean friendly mother, [POSE], brown hair pulled back in a po
 
 **Mom must never look stern, worried, or "about to talk."** Pose #2 is the whole of Kennedy's sturdy presence in one image: close, calm, quiet.
 
-### Hug test (p. 27; bible §9 item 2)
+### Hug test (p. 27; bible §9 item 1)
 Omni Reference holds only one character per image, so try in this order:
 1. **V8 Edit path:** drop `mom_front_LOCKED.png` and `milo_front_LOCKED.png` in as reference images and `STYLE_ANCHOR.png` in **Styles**. Prompt: `the mother from the first reference image sitting on a low bench and hugging the small boy from the second reference image with both arms, the boy hugging her back tightly with his arms around her, his face pressed against her purple sweater, both eyes closed, warm and calm, [style fragment]`.
 2. **Composite fallback:** generate Mom with arms in an open hugging shape (`arms wrapped around as if holding a child`) and Milo leaning in with his face turned away (`leaning forward, face hidden, arms reaching around someone`), then overlap them in Canva with Mom's arms on top.
