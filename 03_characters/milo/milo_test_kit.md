@@ -6,7 +6,7 @@
 
 ## How to run every prompt
 
-- **Midjourney V7**, the proven recipe RC-A1: **Omni Reference** slot = the "Milo Standing Neutral" image (or `milo_front_LOCKED.png`) at `--ow 100`; **Styles** slot = `STYLE_ANCHOR.png` at `--sw 60`.
+- **Midjourney V7**, the proven recipe RC-A1: **Omni Reference** slot = `milo_front_LOCKED.png` (from the repo; or the "Milo Standing Neutral" image if it's still in your Midjourney uploads) at `--ow 100`; **Styles** slot = `STYLE_ANCHOR.png` at `--sw 60`.
 - The prompts below are complete. Paste as-is; don't type `--sref` or `--oref` (the slots replace them).
 - Run each prompt **once** (4 candidates). Reroll up to **3 times**. If none pass, stop and bring the best one here; we'll adjust the wording rather than burn rolls.
 - Log every run in the Google Sheet "Alex Book – Midjourney Test Log" (Test Log tab): ID below, version, recipe, job URL, pass/fail per check.
@@ -29,10 +29,11 @@
 These carry the book's meaning (lonely, patient, noticing). If V7 can hold Milo through these, the rest will follow. **After Stage A, bring the picks here for review before Stage B.**
 
 ### P-3d: Alone under the tree (p. 10)
+**Attach:** Omni Reference = `03_characters/milo/milo_front_LOCKED.png` (`--ow 100`); Styles = `03_characters/style-anchor/STYLE_ANCHOR.png` (`--sw 60`). Nothing else: the expression sheets carry ginger hair and blue irises, and head-only crops pull the framing to a close-up. Leaves are excluded because the anchor's leaf pile tends to appear under seated figures.
 **Must read as:** Sad and small, never angry or sulking. No tears (hurt here is quiet). Room above his head for the text zone.
 
 ```
-full body, the same small 7-year-old boy from the reference image, about three and a half heads tall, pale golden blond curtain haircut with short neatly clipped sides and back and ears showing, soft shaggy wavy hair on top parted down the middle, light freckles across his nose and cheeks, big expressive eyes with clear whites and black pupils, thick expressive eyebrows, sitting on the ground hugging his knees to his chest, chin resting on his knees, sad and lonely, eyes looking down, seen from his eye level, plain light blue t-shirt, blue jeans, blue sneakers, classic newspaper comic strip style, hand-inked light lively brush lines, soft, pale, muted, calm transparent watercolor, plain white background, no other characters --ar 1:1 --sw 60 --ow 100 --v 7 --no blue eyes, colored irises, red hair, ginger hair, orange hair, spiky hair, long hair, long sides, teenager, tall, lanky, glow, glowing, light rays, transparency, ghost, signature, hatching, cross-hatching, vector, anime, text, letters, words, numbers, speech bubbles, captions, border, frame, panel lines, background scenery, angry, crying, tears
+full body, the same small 7-year-old boy from the reference image, about three and a half heads tall, pale golden blond curtain haircut with short neatly clipped sides and back and ears showing, soft shaggy wavy hair on top parted down the middle, light freckles across his nose and cheeks, big expressive eyes with clear whites and black pupils, thick expressive eyebrows, sitting on the ground hugging his knees to his chest, chin resting on his knees, sad and lonely, eyes looking down, seen from his eye level, plain light blue t-shirt, blue jeans, blue sneakers, classic newspaper comic strip style, hand-inked light lively brush lines, soft, pale, muted, calm transparent watercolor, plain white background, no other characters --ar 1:1 --sw 60 --ow 100 --v 7 --no blue eyes, colored irises, red hair, ginger hair, orange hair, spiky hair, long hair, long sides, teenager, tall, lanky, glow, glowing, light rays, transparency, ghost, signature, hatching, cross-hatching, vector, anime, text, letters, words, numbers, speech bubbles, captions, border, frame, panel lines, background scenery, angry, crying, tears, autumn leaves, leaf pile
 ```
 
 ### P-3g: Lying on the rug (pp. 15–17)
